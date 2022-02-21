@@ -1,0 +1,1215 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/rundbriefe" xml:id="Rundbrief_005.xml" prev="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_004_2.xml">
+   <teiHeader xmlns:tei="http://www.tei-c.org/ns/1.0">
+      <fileDesc>
+         <titleStmt>
+            <title type="main"> Digitale Edition Rundbriefe des Zentralinstitutes für
+               Theaterwissenschaft an der Universität Wien 1943-45</title>
+            <title type="sub">Digitale Edition des 5. Rundbriefs 1944</title>
+            <principal>
+               <rs ref="#reiter_vicky" type="person">Vicky Reiter</rs>
+            </principal>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <rs ref="#reiter_vicky" type="person">Vicky Reiter</rs>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+                  <p> The (CC BY-SA 4.0)-License applies to this document. </p>
+                  <p> You are allowed to share (copy and redistribute the material in any medium or
+                     format) and adapt (remix, transform, and build upon the material) for any
+                     purpose, even commercially. </p>
+                  <p> You must give appropriate credit, provide a link to the license, and indicate
+                     if changes were made. You may do so in any reasonable manner, but not in any
+                     way that suggests the licensor endorses you or your use. </p>
+                  <p> ShareAlike — If you remix, transform, or build upon the material, you must
+                     distribute your contributions under the same license as the original. </p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Archiv und Sammlungen des Instituts für Theater-, Film- und
+                     Medienwissenschaft der Universität Wien</institution>
+                  <repository>Institutsarchiv</repository>
+                  <idno>Signatur 161.A001</idno>
+               </msIdentifier>
+               <history>
+                  <origin when="1944-12"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <p>
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../indices/listperson.xml" xpointer="listperson">
+               <fallback xmlns="http://www.w3.org/2001/XInclude">File to include couldn't be
+                  found</fallback>
+            </xi:include>
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../indices/listplace.xml" xpointer="listplace">
+               <fallback xmlns="http://www.w3.org/2001/XInclude">File to include couldn't be
+                  found</fallback>
+            </xi:include>
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../indices/listorg.xml" xpointer="listorg">
+               <fallback xmlns="http://www.w3.org/2001/XInclude">File to include couldn't be
+                  found</fallback>
+            </xi:include>
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../indices/listwork.xml" xpointer="listwork">
+               <fallback xmlns="http://www.w3.org/2001/XInclude">File to include couldn't be
+                  found</fallback>
+            </xi:include>
+         </p>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="1"/>
+         <head type="main" style="text-align:center"><hi rend="underline">Rundbrief</hi>
+            <lb/>
+            des <rs ref="#zentralinstitut">Zentralinstituts für Theaterwissenschaft</rs> an der <rs ref="#universitaet_wien" type="org">Universität <hi rend="letterspace">Wien</hi></rs>.
+         </head>
+         <head type="sub">
+            <date when="1944-12">Dezember 1944.</date>
+            <num>No. 5</num> erscheint jährlich viermal</head>
+         <div type="letter" n="1">
+            <salute>Liebe Kameraden !</salute>
+            <p>Bald wird es <date when="1944-12-24" type="holiday" subtype="christmas">Weihnachten</date>. Da wandern unsere 
+               Gedanken wieder besonders herzlich zu Euch allen 
+               hinaus. Viele von Euch haben in ihren Antworten auf 
+               unseren letzten Rundbrief voll freundlicher Sorge 
+               gefragt, ob unser <rs ref="#zentralinstitut" type="org">Zentralinstitut</rs> vom totalen
+               Kriegseinsatz schwerer betroffen wurde. Natürlich haben 
+               auch wir unseren Tribut geleistet. Da aber die <orgName type="university" subtype="faculty">Philosophische
+               Fakutltät</orgName> der <orgName type="university">Wiener Universität</orgName>
+               weiter aufrecht erhalten wurde, durften auch wir unsere Arbeit 
+               im wesentlichen weiterführen.
+            </p>
+            <p>Die Zahl unserer Institutsmitglieder ist 
+               freilich viel kleiner geworden. Die jungen und mittleren 
+               Semester sind zum grossen Teil in den Rüstungseinsatz 
+               gegangen. Verblieben sind, gemäss den Richtlinien 
+               des <rs ref="#reichserziehungsministerium" type="org">Reichserziehungsministeriums</rs>, die 
+               Examenskandidaten, die bis zum <date when="1944-05-01">1. Mai 1945</date> ihre 
+               Doktorexamina abzuschliessen vermögen, die Versehrten, die 
+               überhaupt weiterstudieren dürfen, die Rekonvaleszenten
+               unter den Wehrdienstpflichtigen, die etwa für mehrere 
+               Monate in Lazarettbehandlung sind und während dieser 
+               Zeit studieren dürfen, Kriegerwitwen, einige aus
+               gesundheitlichen Gründen vom Wehr- und Arbeitseinsatz 
+               Befreite und im sogenannten nebenberuflichen Studium 
+               einige weibliche Studierende, die tagsüber in der
+               Rüstungsindustrie arbeiten, <time notBefore="17:00:00">nachmittags ab 17 Uhr</time>
+               aber dann Vorlesungen un Uebungen besuchen dürfen.
+            </p>
+            <pb n="2"/>
+            <fw type="pageNum" place="top-centre">– 2 –</fw>
+            <p>Gerade mit Rücksicht auf die letztgenannten 
+               Studierenden und im Hinblick auf die in die 
+               Mittagsstunden fallende Alarme wurde diesmal auch die 
+               Hauptvorlesung auf Nachmittag verlegt. Auch finden diese 
+               Vorlesungen nicht mehr, wie bisher, im
+               <rs ref="#universitaet_wien" type="org">Auditorium Maximum</rs>, sondern im schönen
+               <rs ref="#zentralinstitut" type="org">Kainzraum, also dem eigenen Hörsaal des Zentralinstituts in
+                  der Hofburg</rs> statt, der zu diesem Zweck mit einem 
+               Projektionsapparat ausgestattet wurde.
+            </p>
+            <p>Viele von den Fernbetreuten - und ihre 
+               Anzahl ist indessen auf <num type="cardinal">399</num> gestiegen, weil nach einem 
+               Erlass des <roleName>Reichserziehungsministers</roleName> auch die zum 
+               Rüstungseinsatz Einberufenen fernbetreut werden 
+               sollen - fragten bei uns an, ob <rs ref="#zentralinstitut" type="org">unser Institut</rs> bei den 
+               Luftangriffen auf <rs ref="#wien" type="place">Wien</rs> Schaden genommen habe. 
+               Gottlob ist das bisher nicht in erheblichem Masse der 
+               Fall gewesen. Am <date when="1944-09-10">10.September 1944</date> waren freilich 
+               zwei schwere Bomben auf den altehrwürdigen
+               <rs ref="#michaelerplatz" type="place">Michaelerplatz</rs>, dicht vor unseren Fenstern, niedergegangen. Da 
+               gab es nun gar viele zerbrochene Fensterscheiben und 
+               aus den Angeln gehobene Fensterrahmen. Aber auch 
+               dieser Schaden ist dank der unermüdlichen Selbsthilfe 
+               unserer Assistentinnen und Studierenden zum grössten 
+               Teil wieder behoben. Auch das <rs ref="#burgtheater" type="org">Burgtheater</rs> und die
+               <rs ref="#staatsoper" type="org">Staatsoper</rs> stehen noch unversehrt. <date when="1944-12-12">(12.XII.1944)</date>
+            </p>
+            <p>Sehr herzlich begrüssen wir nun alle die 
+               neu hinzugekommenen Fernbetreuten - die an
+               der Front und die in der Rüstung - und bitten sie, sich unserm 
+               Kreis so eng einzufügen, wie dies bisher schon fast 
+               alle die andern taten, mit denen wir nun in
+               eineinhalbjährigem Gedankenaustausch stehen. Die von der 
+               Rüstung sind uns ja alle vertraut, weil sie bisher 
+               aktive Institutsmitglieder waren und unsere Arbeit 
+               deshalb besonders genau kennen. Sie mögen durch 
+               dieses Rundbriefe in der altgewohnten Weise an 
+               unserem Tun und Treiben teilnehmen, damit sie einst 
+               <pb n="3"/>
+               <fw type="pageNum" place="top-centre">– 3 –</fw> 
+               bei ihrer Wiederkehr dort wieder beginnen können, 
+               wo sie einmal aufhören mussten.
+            </p>
+            <p>In diesem <date>Wintersemester 1944/45</date> hält 
+               <hi rend="underline"><rs ref="#kindermann_heinz" type="person" subtype="acting">Prof. Kindermann</rs></hi> ein dreistündiges Hauptkolleg 
+               über <hi rend="underline">"Das deutsche und europäische Barockheater"</hi>. 
+               Im Proseminar wird diesmal die <hi rend="underline">Geschichte des 
+                  Bühnenbildes</hi> in einer Reihe von Referaten
+               durchgearbeitet, die vom Theater der griechischen Antike bis zum 
+               deutschen Gegenwartstheater führen. Und im 
+               Hauptseminar gelten die Referate dem <hi rend="underline">Wesen und der 
+                  Geschichte der Dramaturgie</hi>, wobei ebenfalls die 
+               Entwicklungslinien von <rs ref="#aristoteles" type="person" subtype="mentioned">Aristoteles</rs> bis zu den allerjüngsten 
+               dramaturgischen Bemühungen gezogen werden. Wir werden 
+               Euch dann im nächsten Rundbrief, zu <date>Semesterende</date>,
+               genauere Berichte und Inhaltsangaben über den Verlauf 
+               des Hauptkollegs und der Seminare vorlegen.
+            </p>
+            <p><rs ref="#börge_vagn" type="person" subtype="acting">Dozent Dr. Börge</rs> hält diesmal
+               sein dramaturgisches Kolloquium über <hi rend="underline">"Rollenpsychologie"</hi>.
+               Daneben hält er ein filmkundliches Kolloqium über den 
+               <hi rend="underline">"Film als Gesamtkunstwerk"</hi>. Dazu kommt seine 
+               einstündige Vorlesung über <hi rend="underline">"Die Bühnengestalt der 
+                  klassischen Hauptwerke des deutschen Spielplans".</hi> Es 
+               handelt sich um eine zyklische Vorlesung deren 
+               erster Teil in diesem Semester mit der Entwicklung von 
+               <rs ref="#kalidasa" type="person" subtype="mentioned">Kalidasa</rs> bis <rs ref="#shakespeare_william" type="person" subtype="mentioned">Shakespeare</rs> befasst ist.
+            </p>
+            <p><hi rend="underline"><rs ref="#niederführ_otto" type="person" subtype="acting">Prof. Niederführ</rs></hi> widmete sein in zwei 
+               Stufen durchgeführtes Kolloquium über praktische
+               Bühnenkunde diesmal Problemen der <hi rend="underline">Regiebuch-Gestaltung und</hi>
+               des <hi rend="underline">Spielplan - Aufbaues.</hi> Auch über den Verlauf der
+               Vorlesungen und Uebungen von <rs ref="#börge_vagn" type="person" subtype="acting">Dozent Börge</rs> und <rs ref="#niederführ_otto" type="person" subtype="mentioned">Prof.
+                  Niederführ</rs> werden wir im nächsten Rundbrief genau 
+               berichten.
+            </p>
+            <p>Neu augenommen wurde für einen engen Kreis 
+               reifster Studierender ein <hi rend="underline">Arbeitskreis über Prinzi- 
+               <pb n="4"/>
+               <fw type="pageNum" place="top-centre">– 4 –</fw>
+                  pien der Regie,</hi> den der <rs ref="#waniek_herbert" type="person" subtype="acting">Oberregisseur des
+                  Burgtheaters Herbert Waniek</rs> leitet. Er setzte überaus 
+               lebending mit einem köstlichen Regie-Experiment ein 
+               und verspricht viel Gutes für unsere
+               Institutsmitglieder. Wir geben im nächsten Rundbrief dann einen 
+               Sonderbericht über diesen Arbeiterkreis.
+            </p>
+            <p>Die <hi rend="underline">Ringvorlesung</hi> soll mit Rücksicht auf eine Reihe von
+               Studierenden, die augenblicklich in einem kurzfristigen Arbeitseinsatz stehen, erst
+               im <date when="1944-01">Januar</date> beginnen. Doch wurde wenigstens ein Vortrag
+               schon vorweggenommen, der zugleich als Sonderveranstaltung galt, ein Vortrag von dem
+               bekannten <roleName>Bühnenbildner</roleName>
+               <rs ref="#niedermoser_" type="person" subtype="acting">Prof. <hi rend="underline">Niedermoser</hi></rs> (<orgName type="university">Reichshochschule für
+                  angewandte Kunst</orgName>), von dem unten gleich genauer die Rede sein wird.
+            </p>
+            <p>Unsere besonderen Veranstaltungen werden 
+               nun, im Zeichen des totalen Kriegseinsatzes,
+               natürlich nur mehr im engsten Rahmen unseres Instituts, 
+               also auch in unserem <placeName type="room">Kainzraum</placeName>, durchgeführt. 
+               So fang in diesem Rahmen anlässlich des <date type="occasion">450.Geburtstages</date> 
+               des <rs ref="#sachs_hans" type="person">grossen Meistersingers von Nürnberg</rs> eine 
+               wohlgelungene <hi rend="underline">Hans-Sachsfeier</hi> am <date when="1944-11-21">21. November 1944</date> 
+               statt.Zu Beginn sprach <rs ref="#weinberger_hilde" type="person" subtype="acting">Hilde <hi rend="underline">Weinberger</hi> (die 
+                  bekannte junge Vortragskünstlerin</rs>, die <rs ref="#zentralinstitut" type="org">unserm 
+                     Institut</rs> als Mitglied angehört) <rs ref="#goethe_johann" type="person" subtype="mentioned">Goethes</rs> <rs ref="#hans_sachsens_poetische_sendung" type="work">Hymnus "Hans 
+                        Sachsens poetische Sendung"</rs>. Dann nahm <rs ref="#kindermann_heinz" type="person" subtype="acting">Prof. 
+                           <hi rend="underline">Kindermann</hi></rs> das Wort zu seinem Einführungsvortrag über 
+               "Hans Sachs und das deutsche Theater", in dem er 
+               etwa ausführte:"
+            </p>
+            <q type="spoken">
+               <p>"Nur wenige deutsche Dramatiker können 
+                  das Recht für sich in Anspruch nehmen, in
+                  jedem Sinn Volksdichter gewesen zu sein, also 
+                  Dichter aus der Mitte des Volkes und Dichter 
+                  zugleich für alles Volk. Unter diesen wenigen 
+                  aber nimmt <rs ref="#sachs_hans" type="person" subtype="mentioned">Hans Sachs</rs>, dessen <date type="occasion">450. Geburtstag</date> 
+                  <pb n="5"/>
+                  <fw type="pageNum" place="top-centre">– 5 –</fw>
+                  wir nun feiern, einen ganz besonderen Ehrenplatz 
+                  ein, denn <rs ref="#sachs_hans" type="person" subtype="mentioned">Hans Sachs</rs> ist ja zudem der einzige 
+                  Dichter des <date notBefore="1500-01-01" notAfter="1599-12-31">16. Jhdts.</date>, der heute noch 
+                  volkstümlich ist, der heute noch hundertfach aufgeführt 
+                  wird. Ja, wenn wir uns fragen, was denn von 
+                  einmalig geformter Dichtung (also das Volkslied, 
+                  Märchen und Sagen ausgenommen) aus weit 
+                  zurückliegenden Jahrhunderten heute noch im 
+                  Bewusstsein unseres ganzen Volkes, jenseits des blossen 
+                  Bildungskodex, lebendig ist und über alle 
+                  Zwischenzeiten hinüber wirksam blieb, dann 
+                  erscheint uns <rs ref="#sachs_hans" type="person" subtype="mentioned">Hans Sachs</rs> mit seiner köstlich 
+                  farbensatten Schwank- und Fastnachtsspiel-Welt fast 
+                  die weitest zurückliegende Insel voll dauernd 
+                  gültiger Gestalten und Weisheiten, voll des 
+                  sprühenden Humors und voll teifer Menschlichkeit.
+               </p>
+               <p>Fragen wir uns nach dem Warum dieser 
+                  beglückenden Dauer inmitten all des flüchtigen 
+                  Wechsels der Erscheinungen, dann fällt die Antwort 
+                  nicht ganz so einfach aus, als es im ersten 
+                  Augenblick anmuten möchte.
+               </p>
+               <p> Zunächst ist diese Welt der Schwänke und 
+                  Fastnachtsspiele inmitten des Gesamtwerks von 
+                  <rs ref="#sachs_hans" type="person" subtype="mentioned">Hans Sachs</rs> nur ein bescheidener Bruchteil. Sie 
+                  werden ja zahlenmässig von all den tausenden 
+                  Meistergesängen, von all den Streitschriften im 
+                  Dienst der Lutherischen Reformation und von all 
+                  den hunderten von Tragödien weit überboten.
+                  Aber gerade in diese Schwänke und Fastnachtsspiele ist 
+                  mehr als in die wesentlich konstruktiveren 
+                  übrigen Dichtungen <rs ref="#sachs_hans" type="person" subtype="mentioned">Sachsens</rs> ein Jahrtausenderbe 
+                  deutschen und germanischen Brauchtums, deutscher und 
+                  germanischer Menschensicht hineingewachsen. Wir 
+                  wissen nun aus den Forschungen von <rs ref="#stumpfl_" type="person" subtype="mentioned">Stumpfl</rs>, wie 
+                  gerade dieses charakteristische und sozialkriti- 
+                  <pb n="6"/>
+                  <fw type="pageNum" place="top-centre">– 6 –</fw>
+                  sche Profil der Festnachtsspiele auf uralt-
+                  germanische Vorformen der Rüge-und Gerichtsspiele 
+                  sowie der Fruchtbarkeitsriten zurückgeht, 
+                  sodass <rs ref="#sachs_hans" type="person" subtype="mentioned">Hans Sachs</rs>, der wieder innerhalb der 
+                  Fastnachtsspiel - Welt des <date notBefore="1500-01-01" notAfter="1599-12-31">16.Jahrhunderts</date> nicht 
+                  ein Anfänger, sondern ein Vollender nach vielen
+                  Vorstufen war, das Endglied einer unendlich 
+                  langen Kette ist. In seinem Fastnachtsspiel - Bereich 
+                  fliesst gleichsam das Beste dieser ganzen 
+                  Gattung, gepaart mit der Volksweisheit und dem 
+                  Volkshumor aus Jahrtausenden noch einmal zu
+                  einer prachtvollen Summe des Lebens, zu einer 
+                  Revue menschlicher Schwäche und Torheiten im 
+                  Spiegel germanisch - deutscher Sicht zusammen.
+               </p>
+               <p><rs ref="#sachs_hans" type="person" subtype="mentioned">Der Nürnberger Schneidersohn Hans Sachs</rs> war 
+                  dabei nicht bloss auf den Horizont seiner
+                  Vaterstadt angewiesen. Dieser Nürnberger Horizont des 
+                  <date notBefore="1500-01-01" notAfter="1599-12-31">16.Jahrhunderts</date> war freilich allein schon reich 
+                  genug; denn als
+                  Schnittpunkt norsüdlicher 
+                  Handelsbeziehungen floss hier vieles an Einsichten 
+                  aus halb Europa vorbei, was sonst nicht leicht 
+                  in solcher Fülle an einer Stelle sichtbar 
+                  gewesen wäre. Und da <rs ref="#nürnberg" type="place">Nürnberg</rs> zugleich Hochburg des 
+                  Humanismus, Residenz des <rs ref="pirckheimer_willibald" type="person" subtype="mentioned">Erzhumanisten Pirckheimer</rs> 
+                  war, in dessen Diplomatenhaus die 
+                  berühmtesten Männer der ganzen Eproche ein- und ausgingen, 
+                  fehlte es nicht daran, dass auch <rs ref="#sachs_hans" type="person" subtype="mentioned">der Lateinschüler Sachs</rs> 
+                  viel von dieser neu erarbeiteten Welt 
+                  in seinen Handwerker-Horizont bannte. Und was sagt 
+                  uns nicht für seine Holzschnitt-Manier das 
+                  Gegenüber von <rs ref="#sachs_hans" type="person" subtype="mentioned">Hans Sachs</rs> und <rs ref="#dürer_albrecht" type="person" subtype="mentioned">Albrecht Dürer</rs>, <rs ref="#kraft_adam" type="person" subtype="mentioned">Adam Kraft</rs> 
+                  und <rs ref="#vischer_peter" type="person" subtype="mentioned">Peter Vischer</rs> im gleichen <rs ref="#nürnberg" type="place">Nürnberg</rs> dieser Zeit! 
+                  Es gibt nicht leicht eine gesättigtere
+                  Kulturatmosphäre, aus der die Gestalter des Volkes aufsteigen 
+                  können.
+               </p>
+               <pb n="7"/>
+               <fw type="pageNum" place="top-centre">– 7 –</fw>
+               <p>Aber <rs ref="#sachs_hans" type="person">der Handwerksbursche Hans Sachs</rs> hatte 
+                  ja auch die Welt gesehen, oder zumindest sein 
+                  weites, schönes deutsches Vaterland. Er hatte 
+                  Land und Leute erwandert. Mit <num type="cardinal">17</num> Jahren war der 
+                  Geselle über <rs ref="#regensburg" type="place">Regensburg</rs> nach <rs ref="#tirol" type="place">Tirol</rs> gekommen und 
+                  in <rs ref="#innsbruck" type="place">Innsbruck</rs> in die Dienste <rs ref="#von_Habsburg_Maximilian">Kaiser Maximilians, 
+                     des letzten Ritters</rs>, getreten. Dann führte sein 
+                  Weg durch <rs ref="#bayern" type="place">Bayern</rs> und <rs ref="#franken" type="place">Franken</rs> an den Rhein, über 
+                  <rs ref="#koblenz" type="place">Koblenz</rs> und <rs ref="#köln" type="place">Köln</rs> nach <rs ref="#aachen" type="place">Aachen</rs>. Ueberall finden 
+                  wir ihn in den Singschulen der Meister. Mit <num type="cardinal">19</num> 
+                  Jahren treffen wir ihn in <rs ref="#wels" type="place">Wels</rs> - und dort 
+                  beschloss er, sich der Dichtkunst zu widmen. In 
+                  einer Münchner Singschule trug er seine ersten 
+                  Meistergesänge vor. Und noch weitere drei Jahre 
+                  ging er landauf und landab, nördlich bis nach 
+                  <rs ref="#lübeck" type="place">Lübeck</rs>, sündlich bis zu uns nach <rs ref="#wien" type="place">Wien</rs>. Erst <date notBefore="1516-11-05" notAfter="1516-12-31">1516</date>, 
+                  also mit 22 Jahren, machte er sich in <rs ref="#nürnberg" type="place">Nürnberg</rs> 
+                  sesshaft:
+               </p>
+               <p> Als er aber nun seine Dichtungen immer 
+                  selbstständiger aufbaute, als er in ihnen
+                  die Welt seiner Erfahrungen ausbreitete und dafür 
+                  eine unheimliche Fülle der Stoffe aus der 
+                  Antike, aus dem <rs ref="#il_decamerone" type="work">Dekamerone</rs>, aus den Heldensagen und 
+                  Volksbüchern, kurz aus allem, was überhaupt 
+                  bis dahin die Weltliteratur geboten hatte, in 
+                  Anspruch nahm, da war es nur selbstverständlich, 
+                  dass er bald aus der Reihe tanzte. Die Zäune der
+                  Meistersinger-Regeln wurden ihm rasch zu eng und 
+                  so verband er mit der Vollendung der Meistersinger-Welt 
+                  auch schon ihre Ueberwindung. Denn ihre 
+                  allzu konstruktive Gesetzmässigkeit erfüllte er 
+                  mit dem Organismus des Gewachsenen, des Vollblütigen
+                  und Lebendigen, des scharf Zupackenden und, 
+                  wo nötig, auch des Karikierenden.
+               </p>
+               <p> Und er bot immer wieder eine Uebertragung 
+                  all dieser vershiedenartigen Vorwürfe nicht nur 
+                  <pb n="8"/>
+                  <fw type="pageNum" place="top-centre">– 8 –</fw>
+                  in seine volkseigene Sprache, sondern auch eine 
+                  Uebertragung in das typische Bürger-Ethos dieser 
+                  Zeit, in der das neue Phänomen der Stadtbürger 
+                  eine führende Rolle im Gefüge der Nation spielte. 
+               </p>
+               <p>Es war nicht der Renaissancegeist des 
+                  Machtmenschen und des gefährlich Lebenden, der da als 
+                  Idealzustand zu Tage kam, sondern es war die 
+                  Lebenslehre des tüchtigen und seiner Gemeinschaft 
+                  nützlichen Menschen, der aller übergrossen 
+                  Leidenschaft abhold ist, weil sie die Ordnung 
+                  durchbricht und den notdürftig durch Arbeit gesicherten 
+                  Lebensbezirk gefährdet.
+               </p>
+               <p>So erhebt <rs ref="#sachs_hans" type="person">Hans Sachs</rs> in seinen Schwänken und 
+                  vor allem auch in seinen Fastnachtsspielen sein 
+                  Wort als Sprecher dieser bürgerlichen Gemeinschaft, 
+                  die einem schrankenlosen Individualismus ihr 
+                  Bekenntnis zur gemeinsamen Lebenssicherung durch 
+                  Fleiss und Treue, durch Anständigkeit und 
+                  Charakterstärke entgegenrückt. Das Heroische wird dabei 
+                  oft ins Moralische gewandelt. Aber was dieses 
+                  Weltbild dadurch an einsam ragender Grösse 
+                  verliert, das gewinnt es an mächtiger Breite der 
+                  Lebensvielfalt und der blühenden Bejahung des 
+                  Daseins als einer schweren aber im ganzen doch 
+                  lohnenden Aufgabe.
+               </p>
+               <p>Es ist also eine moralische Welt, die mehr 
+                  als einmal mit allzu bürgerlichen Wertmasstäben 
+                  gemessen wird; aber es ist zugleich eine 
+                  antimaterialistische Welt, die alle Anbeter des Geldes 
+                  verachtet und an die Stelle der höfischen Mâze des 
+                  Mittelalters eine neue bürgerliche Mâze als 
+                  Korrektiv des Daseins setzt; eine bürgerliche Mâze, die 
+                  viel mehr will als leben und leben lassen, weil 
+                  auch sie ihr Ideal hat, das nach innerer und 
+                  äusserer Schönheit strebt. Freilich ist es eine wohlge-
+                  <pb n="9"/>
+                  <fw type="pageNum" place="top-centre">– 9 –</fw>
+                  ordnete, keine wildwachsende und keine 
+                  fanatische Schönheit; und es ist eine Schönheit, die 
+                  dem Glück niemals vertraut, sondern ihm höchst 
+                  skeptisch gegenübersteht, seine Schicksalsschläge 
+                  wie seine scheinbar grossen Gaben mit 
+                  unendlicher Werktreue und mit einer Lebensführung voll 
+                  der grenzsetzenden Bescheidenheit pariert.
+               </p>
+               <p>Beginnt die Renaissancedramatik Einzelindividuen,
+                  Persönlichkeiten zu gestalten: <rs ref="#sachs_hans" type="person">Hans Sachs</rs>
+                  vollendet in seinen Fastnachtsspielen und
+                  Schwänken die im Mittelalter begonnene Typen-
+                  Gestaltung. Das böse Weib, der liederliche Mann,
+                  der Dumme, der Lügner, der Geizige, aber auch 
+                  Sozialtypen, vor allem der vom neuen stolzen 
+                  Stadtgeist her irrtümlich unterschätzte, 
+                  tollpatschige Bauer, aber auch der sehr skeptisch 
+                  und oft als Windbeutel oder Verführer angesehene
+                  Adelige - sie ziehen in diesem Lebens- und
+                  Totentanz der Schwänke und Fastnachtsspiele an uns
+                  vorüber als Glieder einer unendlichen Kette
+                  unseres Volkes, die herkam vom Anbeginn und die 
+                  weiterreicht bis in unsere eigene Zeit, ja bis
+                  in alle Zukunft. 
+               </p>
+               <p>Bald bieten sich diese Fastnachtsspiele als 
+                  eine Art szenischer Streitgesprächs dar, wie
+                  etwa das erste, das Sie dann hören, "Das Krapfenholen"; 
+                  oder sie greifen schon nach einer
+                  theatralischen Gestaltung der drastischen Gebärde und der
+                  mimischen Bewegung, der theatralischen Typen- und
+                  Menschengestaltung in wesentlich komplizierteren 
+                  Formen, wie sie uns in dem zweiten heute Abend
+                  vorgeführten Schwank, dem "Bauern mit dem Kuhdieb"
+                  begegnen.
+               </p>
+               <p>Hans Sachsens Fastnachtsspiele und Schwänke
+                  sind nicht blosse Belustigung: sie sind in hoher
+                  <pb n="10"/>
+                  <fw type="pageNum" place="top-centre">– 10 –</fw>
+                  Form der Volkstümlichkeit Lehr- und Warndichtung, 
+                  also Theater mit praktischer Lebensfunktion. 
+                  Sie sind in ihrer Weise volkhafte 
+                  Gesellschaftskritik und Lebenslehre. Der Volksdramatiker, 
+                  der seine Stücke selbst spielt und 
+                  inszeniert, will zugleich ein grosser Volks-Erzieher 
+                  sein.
+               </p>
+               <p>Das Volk aber begreift schon zu <date notBefore="1494-11-05" notAfter="1576-01-19">Sachsens Lebzeiten</date> 
+                  den Impuls der volkformenden Unmittelbarkeit, 
+                  der in diesem Humor und in dieser Kritik 
+                  liegt. So wurden im <date notBefore="1500-01-01" notAfter="1599-12-31">16. Jhdt.</date> <rs>Hans Sachsens
+                     Fastnachtsspiele</rs> im gesamten deutschen Volksraum 
+                  aufgeführt. Es sind überall die Laienspieler aus dem 
+                  bürgerlichen, vor allem dem Handwerkerbereich, die 
+                  auf freien Plätzen oder in Rats- und Wirtsstuben 
+                  auf einfachster Neutralbühne, bloss unterstützt 
+                  durch etliche "sprechende" Requisiten und durch 
+                  einige Symbolkostüme, dieses fröhlihce und doch so 
+                  ernst gemeinte Spiel mehr improvisierten als 
+                  zelebrierten. <date notBefore="1600-01-01" notAfter="1699-12-31">Noch bis tief ins 17. Jhdt.</date> hinein reicht 
+                  diese erste Wirkung, bis dann die hochbarocke 
+                  Kunstdichtung sich seit <rs ref="#peter_squentz" type="work"><rs ref="#gryphius_andreas" type="person">Gryphius</rs> "Peter Squentz"</rs> über 
+                  dieses Handwerkertheater lustig macht. Aber auch diese 
+                  Polemik, richtet sich eigentlich nur gegen das 
+                  Unzulängliche des tragischen Handwerkertheaters, nicht 
+                  gegen ihre unverwüstliche, immer wandlungsfähige Komik. 
+                  Im Gegenteil, die Barockkomödie hat in Text und Spiel 
+                  viel von <rs ref="#sachs_hans" type="person">Hans Sachs</rs> gelernt. Die rein 
+                  verständnismässige Aufklärung freilich verachtete, trotz 
+                  <rs ref="#gottsched_johann" type="person">Gottscheds</rs> Votum, seine naive Volksunmittelbarkeit und seine 
+                  Holzschnittmanier. Sie arbeiteten ja aus der Distanz 
+                  der hochfahrenden Bildung. Die Stürmer und Dränger 
+                  aber, die wieder das Volk suchten, wo es in seiner 
+                  unverbildeten Kraft und Urwüchsigkeit zu finden war, 
+                  haben <rs ref="#sachs_hans" type="person">Hans Sachs</rs> wieder entdeckt. Sie hörten eben 
+                  <rs ref="#goethe_johann" type="person">Goethes</rs> Bekenntnis zu ihm - und <rs ref="#wieland_christoph" type="person">Wieland</rs> versichtert im 
+                  <rs ref="#teutscher_merkur" type="work">"Teutschen Merkur"</rs>, auch die anderen Sturm- und Drang-
+                  <pb n="11"/>
+                  <fw type="pageNum" place="top-centre">– 11 –</fw>
+                  gefährten <rs ref="#goethe_johann" type="person">Goethes</rs>, voran sein <rs ref="#lenz_jakob" type="person">baltischer Freund Lenz</rs>,
+                  hätten diese Wiederentdeckung mit Jubel und 
+                  Bewunderung entgegengenommen. Und sie taten das, 
+                  was einzig diesem Echo zur Dauer verhelfen konnte: 
+                  sie spielten <rs ref="#sachs_hans" type="person">Hans Sachs</rs>, sie führten selbst auf 
+                  ihren Liebhaberbühnen seine Fastnachtsspiele auf - 
+                  und sie lernten viel von ihm. Es war nicht nur 
+                  <rs ref="#sachs_hans" type="person">Hans' Sachsens</rs> Versgestaltung, die bist in den <rs ref="#faust_I" type="work">Faust</rs>
+                  hineinwirkte, sondern viele von <rs ref="#goethe_johann" type="person">Goethes</rs> köstlichen 
+                  dramatischen Farcen und Gelegenheitsdichtungen 
+                  spiegeln die starke Nachwirkung <rs ref="#sachs_hans" type="person">des Nürnbergers</rs>.
+                  Von <rs ref="#wagner_richard" type="person">Richard Wagners</rs> Verherrlichung in den <rs ref="#meistersinger" type="work">"Meistersingern"</rs> 
+                  wissen Sie ja alle. Sie hat das liebenswerte, 
+                  urdeutsche Hans Sachs-Bild auch in das <date notBefore="1900-01-01" notAfter="1999-12-31">20. 
+                     Jahrhundert</date> getragen. Und als nach Beendigung des 
+                  ersten Weltkrieges der gesund gebliebene Teil der 
+                  deutschen Jugend mit seiner Laienspielbewegung 
+                  einer dekadenten Berufstheatralik etwas Unverbraucht-
+                  Gesundes entgegenrücken wollte, da griffen alle die 
+                  Laienspieler des Wandervogels und der bündischen 
+                  Jugend wieder zu <rs ref="#sachs_hans" type="person">Hans Sachs</rs>.
+                  Seitdem aber ist er der Lieblingsdramatiker all 
+                  der jungen deutschen Laienspieler geblieben und in 
+                  all den tausenden von Aufführungen unserer Schüler 
+                  und Jugendformationen zu immer neuem Leben erwacht, 
+                  sodass er zu immer neuen Generationen mit 
+                  unverwelkter Kraft sprach, ja durch sie selbst zu immer 
+                  neuer Spielfreude erweckt wurde.
+               </p>
+               <p>Das Berufstheater hat <rs ref="#sachs_hans" type="person">Hans Sachs</rs> ein wenig 
+                  stiefmütterlich behandelt. Aber gerade jetzt, knapp 
+                  vor der Schliessung der Theater sollte in 
+                  glücklicher Kombination eines abendfüllenden Geflechts von 
+                  Fastnachtsspielen auch das Berufstheater für ihn 
+                  wieder erobert werden.
+               </p>
+               <p>So bedarf es keiner Prophetengabe, um vorauszusagen,
+                  dass <rs ref="#sachs_hans" type="person">Hans Sachs</rs> auch noch vielen künftigen 
+                  <pb n="12"/>
+                  <fw type="pageNum" place="top-centre">– 12 –</fw>
+                  Geschlechtern unseres Volkes ein Ratgeber und 
+                  Tröster sein wird, der von der Bühne her aussagt, 
+                  was rechtens ist und wie der Tüchtige werkt, der 
+                  Komische und Charakterschwache aber absackt, zur 
+                  Niete der Gemeinschaft wird. Es ziemt uns, diesem 
+                  Volksdramatiker, der so oft selbst mitspielte und 
+                  vor allem sein eigener Regisseur war, unsern Dank 
+                  zu sagen gerade in einer Zeit, die aus den Fugen 
+                  geht. Denn sein Theater ist ein Warnbild und in 
+                  der fröhlich-ernsten Bejahung eine Bühne der 
+                  seelischen und sittlichen Wohlgeordnetheit. Wir 
+                  werden sie deshalb vielleicht übermorgen brauchen als 
+                  Wunden heilende Kraft des Werte-Scheidens und des 
+                  Zueinander-Ordnens dort, wo das Weltchaos einen 
+                  Trümmerhaufen hinterliess. Wir lieben und ehren 
+                  deshalb <rs ref="#sachs_hans" type="person">Hans Sachs</rs> nicht als blosse Kuriosität der 
+                  deutschen Dramen- und Theatergeschichte, sondern 
+                  als liebenswürdige und doch sehr bestimmte aus 
+                  einem grossen Volkstumserbe auch ins Künftige 
+                  unserer Daseinsform wirkende Gestalt deutschen 
+                  Menschentums".
+               </p>
+            </q>
+            <p>Sodann aber lasen Studierende der 
+               <rs ref="#max_reinhardt_seminar" type="org">Schauspielschule des Burgtheaters</rs> unter der Leitung <rs ref="#niederführ_otto" type="person">Prof. 
+                  Niederführs</rs> die beiden lustigen und doch von tiefer 
+               Lebensweisheit erfüllten Fastnachtsspiele "Das 
+               Krapfenholen" und "Der Bauer mit dem Kuhdieb"; und 
+               <rs ref="#weinberger_hilde" type="person">Hilde Weinberger</rs> rezitierte mit feiner Pointierung 
+               den Schwank " Warum die Männer Glatzen bekommen".
+               Holzschnittartig wuchs diese <rs ref="#sachs_hans" type="person">Hans Sachsische</rs> 
+               Gestaltenwelt vor uns auf, in satten Farben und doch 
+               scharf konturiert, zupackend in der Kritik der 
+               Lebensformen und voll der dauernd gültigen, nur eben 
+               lächelnd vorgetragenen Sittlichkeit und Gerechtigkeit. 
+               Es war ein Abend des männlichen Humors von 
+               tieferer Bedeutung - ebendeshalb für alle, die ihn 
+               mitmachten, eine höchst gegenwartsbezogene Feier.
+            </p>
+            <pb n="13"/>
+            <fw type="pageNum" place="top-centre">– 13 –</fw>
+            <p>Für eine zweite Sonderveranstaltung hatte 
+               das <rs ref="#zentralinstitut" type="org">Zentralinstitut</rs>, wie schon zuvor erwähnt, 
+               <rs ref="#niedermoser_" type="person">Prof. <hi rend="underline">Niedermoser</hi></rs> eingeladen. Er sprach über das 
+               wichtige Thema <hi rend="underline">"Die Inszenierungskunst auf dem 
+                  Theater und im Film".</hi> Verbindendes und Trennendes.
+            </p>
+            <p>Bei dieser Gelegenheit möchten wir darauf 
+               aufmerksam machen, dass für die im Dienst der 
+               <rs ref="#wehrmacht" type="org">Wehrmacht</rs> stehenden Kameraden, filmwissenschaftlichen 
+               Interessen ein Feldpostbrief "Filmwissenschaft" 
+               von der <rs ref="#reichsstudentenführung" type="org">Fachgruppe Presse, Film, Rundfunk, 
+                  der Reichsstudentenführung</rs> herausgegeben wird; wer 
+               dafür Interesse hat, möge sich bei uns melden. 
+               <rs ref="#niedermoser_" type="person">Prof. Niedermoser</rs> erläuterte:
+            </p>
+            <p>
+               Bestimmend für die Eigenformen beider 
+               Kunstgestaltungen ist der Zuschauer und sein 
+               Blick auf die Bühne, bzw. auf die Leinwand. Im 
+               Theater nimmt er einen festen Standpunkt ein und 
+               betrachtet das gleich bleibende, nur von Szene zu 
+               Szene wechselnde Bild, das sich ihm als Zuschauer, 
+               als Betrachtendem in seiner Eigenräumigkeit darbietet. 
+               Er steht nicht selbst im Raum - sondern 
+               ausserhalb desselben.
+            </p>
+            <p>Ganz anders im Film! Dort ist die Kamera 
+               das Auge des Zuschauers - die Kamera, die selbst 
+               im Raum steht, selbst mitspielt. Ihr Blickfeld 
+               ändert von Sekunde zu Sekunde das Objekt, wie das 
+               Auge des Menschen, das <sic>sich, im Raum bewegend, von 
+               Gegenstand zu Gegenstand wandert.</sic> Das Drehbuch zeigt 
+               in raschestem Wechsel neue Einstellungen: Gross- und 
+               Nahaufnahmen, Halbnah- und Totalaufnahmen.
+            </p>
+            <p>Schon hier zeigt sich die unterschiedliche 
+               Gesetzlichkeit von Bühne und Film. Sucht der Bühnen- 
+               bildner den <hi rend="letterspace">ganzen</hi> Bühnenraum in seiner 
+               Vollständigkeit, in Andeutung, Ornamentik und Stimmung 
+               <pb n="14"/>
+               <fw type="pageNum" place="top-centre">– 14 –</fw>
+               als totales Bild aufzubauen, so kennt der Film nur 
+               den Ausschnitt, das Einzelne, das für das Ganze 
+               steht. Er kennt kein Umfassen des Gesamtraumes, 
+               sondern baut diesen mosaikartig oder in 
+               architektonischer Werdefolge auf dem Grundriss auf. - Er 
+               kennt verschiedene Bewegungsabläufe, um zu diesem 
+               Ziel zu gelangen: 
+               <list rend="inline numbered">
+                  <label>1.</label>
+                  <item>die Fahrt   (die Kamera bewegt sich 
+                  auf Fahrstegen).</item>
+                  <label>2.</label>
+                  <item>die Schwenkung (die Kamera steht und 
+                  macht eine Schwenkung um die eigene 
+                  Achse).</item>
+                  <label>3.</label>
+                  <item>den Schnitt (das Bild bricht ab und 
+                  springt in eine neue Einstellung 
+                  über).</item>
+               </list>
+            </p>
+            <p><rs ref="#niedermoser_" type="person">Prof. Niedermoser</rs> schnitt nun noch 
+               einzelne technische Fragen an, die sich mit der 
+               praktischen Durchführung des Schnittes befassten.
+            </p>
+            <p>Mit dieser intensiven Betrachtung des 
+               Einzelnen und dem Mit-im-Raum-leben des Zuschauers ist 
+               der Film an das Reale, an das Wirkliche gebunden, 
+               während das Theater ganze Traumwelten vor uns 
+               entrollen kann. Phantasie ist die geistige Grundlage 
+               des theatralischen Raumes - Tatsächlichkeitsdeutung 
+               ist die Aufgabe der Leinwand.
+            </p>
+            <p><rs ref="#niedermoser_" type="person">Prof. Niedermoser</rs> illustrierte diese 
+               Ausführungen durch Bilder aus den Entwürfen seiner 
+               Studierenden zu den Stücken <rs ref="#napoleon_hundert_tage" type="work">"Napoleon oder die 
+               hundert Tage"</rs>, die theatralisch gelöst waren, und 
+               zu <rs ref="#pole_poppenspaeler" type="work"><rs ref="#storm_theodor" type="person">Storms</rs> Novelle "Pole Poppenspäler"</rs>, die 
+               filmisch gestaltet waren.
+            </p>
+            <p>Um nun aber gerade die Studierenden der 
+               Theaterwissenschaft in dieser theaterlosen Zeit 
+               gleichwohl mit der Welt des Dramatischen in Füh-
+               <pb n="15"/>
+               <fw type="pageNum" place="top-centre">– 15 –</fw>
+               lung zu erhalten, veranstaltet das <rs ref="#zentralinstitut" type="org">Zentralinstitut</rs> 
+               mit Erlaubnis des <rs ref="#stuppaeck_hermann" type="person">Generalkulturreferenten</rs> und im 
+               Einvernehmen mit <rs ref="#müthel_lothar" type="person">Generalintendanten Müthel</rs> 
+               (<rs ref="#burgtheater" type="org">Burgtheater</rs>) eine Reihe von Dramen-Lesungen, die fast 
+               zur Gänze von Burgschauspielern bestritten werden. 
+               Diese Dramen- Lesungen werden einem grossen Thema 
+               untergeordnet, das dem Ernst unserer Tage 
+               entspricht: <hi rend="underline">"Der Wandel der Faust-Gestalt auf der 
+               Bühne"</hi>. Der erste dieser Abende fand am <date when="1944-11-14">14.November</date> 
+               im Kainzraum statt. Nach einer kurzen Einführung 
+               von <rs ref="#kindermann_heinz" type="person">Prof. Kindermann</rs> las <rs ref="#herterich_franz" type="person">Oberregisseur Franz 
+               <hi rend="underline">Herterich</hi></rs> (<rs ref="#burgtheater" type="org">Burgtheater</rs>) eine Reihe der überaus 
+               anschaulichen dämonenerfüllten Kapitel aus dem <rs ref="#faust_volksbuch" type="work"><rs ref="#spies_johann" type="person">Spies'schen</rs> 
+               Faust-Volksbuch</rs> des <date notBefore="1500-01-01" notAfter="1599-12-31">16. Jahrhunderts</date>, dieser ersten 
+               dichterischen Gestaltung des Vorwurfs. Dann wurden 
+               unter Mitwirkung der Burgschauspieler <hi rend="underline"><rs ref="#eybner_richard" type="person">Eybner</rs></hi>, 
+               <hi rend="underline"><rs ref="#haeussermann_" type="person">Haeussermann</rs></hi>, <hi rend="underline"><rs ref="#herterich_franz" type="person">Herterich</rs></hi> und <hi rend="underline"><rs ref="#schmidt_wilhelm">Schmidt</rs></hi> wichtigste 
+               Szenen aus <rs ref="#faust_marlowe" type="work"><rs ref="#marlowe_christopher" type="person">Marlowes</rs> "Faust"</rs>, dieser von den Wanderbühnen 
+               des <date notBefore="1600-01-01" notAfter="1699-12-31">17. Jahrhunderts</date> vielgespielten ersten 
+               theatralischen Gestaltung des Vorwurfs und zum Schluss 
+               einige köstliche Auftritte aus jenem <rs ref="faust_puppenspiel" type="work">alten Faust-
+               Puppenspiel</rs> gelesen, das noch <rs ref="#goethe_johann" type="person">der Knabe Goethe</rs> in 
+               <rs ref="#frankfurt_main" type="place">Frankfurt</rs> selbst spielte. Sprach aus dem <rs ref="#faust_volksbuch" type="work">Volksbuch</rs> 
+               das Schaudern des frommen Erzählers über den 
+               Erzzauberer, der freventlich trachtete, "das zu lieben, 
+               das nicht zu lieben war" und von dem er doch geheim 
+               bewundernd berichten musste: "dem tracht er Tag und 
+               Nacht nach und nahm an sich Adlersflügel", so stieg 
+               aus den Szenen von <rs ref="#faust_marlowe" type="work"><rs ref="#marlowe_christopher" type="person">Marlowes</rs> "Faust"</rs> der Geist der 
+               Renaissance empor, der Persönlichkeitskult dieses 
+               Zeitalters, das das Ungewöhnliche nicht mehr fürchtete, 
+               sondern emporhob. Sprach aus dem <rs ref="#faust_volksbuch" type="work">Volksbuch</rs> 
+               indirekt der Suchende, der die allzu engen Grenzen des 
+               Irdischen wenigstens durchschauen oder überlisten 
+               möchte - <rs ref="#faust_marlowe" type="work">der Faust <rs ref="#marlowe_christopher" type="person">Marlowes</rs></rs> will diese Grenzen 
+               durchstossen. Schon schlägt er sich, wie dann <rs ref="#faust_I">der 
+               Goethesche</rs>, in seinem Anfangsmonolog mit den einzelnen 
+               Fakultäten herum und findet, da sie alle ihm nicht 
+               <pb n="16"/>
+               <fw type="pageNum" place="top-centre">– 16 –</fw>
+               genügen können, den Weg zu Magie, um - typisch für 
+               Renaissance und Barock - zur Macht zu gelangen. Er 
+               verschreibt seine Seele der Hölle, um die Schätze 
+               <rs ref="#indien" type="place">Indiens</rs> zu erringen, um <rs ref="#deutschland" type="place">Deutschland</rs> mit ehernen 
+               Mauern zu umgeben, um <rs ref="#italien" type="place">Italien</rs> zu erobern. Auf einem 
+               geflügelten Drachen fährt er durch die Luft und 
+               führt den Grossen der Erde seine Künste vor. <rs ref="#faust_marlowe" type="work">Dieses 
+               Faustdrama <rs ref="#marlowe_christopher" type="person">Marlowes</rs></rs> wurde von <rs ref="#graz" type="place">Graz</rs> bis <rs ref="#danzig" type="place">Danzig</rs> 
+               in allen grossen Städten <rs ref="#deutschland" type="place">Deutschlands</rs> zur Barockzeit 
+               gespielt. Unsere Burgschauspieler lasen mit 
+               wundersamer Versenkung in diese dunkle und 
+               zugleich so herrschsüchtige Welt die Anfangsszenen: 
+               Faust (<rs ref="#herterich_franz" type="person">Herterich</rs>) in der Studierstube in seinen 
+               Auseinandersetzungen mit Mephistopheles (<rs ref="#eybner_richard" type="person">Eybner</rs>) 
+               und mit dem bösen und guten Engel (die beiden 
+               Engel wurden von den Institutsmitgliedern <rs ref="#gerstner_" type="person">Gerstner</rs> 
+               und <rs ref="#rohner_" type="person">Rohner</rs> gelesen), weil gerade sie, bis hin zu 
+               dem Augenblick, da Mephisto Faust das Zauberbuch 
+               überreicht, das ihm die schrankenlose Gewalt über 
+               die Welt eröffnet, den Vergleich mit <rs ref="#goethe_johann" type="person">Goethe</rs> 
+               besonders nahelegen.
+            </p>
+            
+            
+         </div>
+         
+         <div type="letter" n="2">
+            <fw type="pageNum" place="top-centre">– 26 –</fw>
+            <salute>Liebe Kameraden !</salute>
+            <p>Wenn ich Euch diesmal die Grüsse der 
+               <rs ref="#fachschaft_theater" type="org">Fachschaft</rs> und somit der noch studierenden Kollegen 
+               übermittle, so geschieht das unter ganz anderen 
+               Voraussetzunen
+               als es noch im letzten Rundbrief 
+               möglich war. Der totale Kriegseinsatz hat auch bei
+               uns die Reihen stark gelichtet. Der Grossteil der 
+               im letzten Semester hörenden Kollegen steht heute 
+               im Rüstungseinsatz oder ist wieder zur <rs ref="#wehrmacht" type="org">Wehrmacht</rs> 
+               zurückberufen worden. Somit ist es also nur einer
+               kleinen Gruppe möglich, das Studium fortzusetzen. 
+               Es ist ganz selbstverständlich, dass wir, die wir 
+               diese Möglichkeit noch besitzen, die in den 
+               vergangenen Semester geleistete Arbeit womöglich 
+               noch zu intensivieren suchen. Durch die 
+               einschneidenden Massnahmen des totalen Krieges ist es mir 
+               nicht mehr möglich, die geplanten
+               Veranstaltungen in diesem Semester voll durchzufürhen. Aber auch 
+               hier hat sich ein Ausgleich finden lassen, indem 
+               die <rs ref="#fachschaft_theater" type="org">Fachschaft Theater</rs> in Kulturabenden die 
+               kulturelle und schöngeistige Betreuung der Studierenden 
+               und der im Rüstungseinsatz stehenden Kollegen 
+               aufnimmt. Die Kulturabende, die in diesem 
+               Semester zur Durchführung gelangen, beschäftigen sich 
+               vor allem mit den dramatischen Dichtungen der 
+               deutschen Klassiker die in Form von Lesungen abgehalten 
+               werden. Im Rahmen dieser Lesungen können sich die 
+               Kollegen der Theaterwissenschaft betätigen, die 
+               gleichzeitig auch die Schauspiellaufbahn einschlagen 
+               wollen. Es ist zwar nur ein kleiner Ausgleich, aber 
+               schon die erste Lesung (<rs ref="#grillparzer_franz" type="person" subtype="mentioned">Grillparzer</rs> - Abend) hat 
+               bewiesen, welche Freude und Anregung uns die 
+               Gestaltung dieser Lesung geben kann.
+            </p>
+            <p>Nun bitte ich Euch, liebe Kameraden, nicht 
+               ungehalten zu sein, dass ich mit dem Briefwechsel 
+               Front und Heimat nicht so einsetzen kann, wie es 
+               <pb n="27"/>
+               <fw type="pageNum" place="top-centre">– 27 –</fw> 
+               mir im letzten Semester vorgeschwebt hat. Aber die 
+               geringe Anzahl der Studierenden und die zunehmende 
+               Anzahl der fernbetreuten Kameraden lassen diesen 
+               Briefwechsel im gedachten Ausmass nicht zur
+               Durchführung gelangen. ich bin jedoch nach wie vor 
+               <sic>bemühr</sic>, diese Schwierigkeiten zu überbrücken, nur 
+               bitte ich Euch um Verständnis.
+            </p>
+            <p>Liebe Kameraden! Ich möchte Euch, so 
+               weit es uns die momentan schwere Kampfphase
+               ermöglicht, trotzdem ein recht frohes Fest wünschen.</p>
+            <salute rend="letterspace">Heil Hitler!</salute>
+            <lb/>
+            <signed style="text-align:center">Euer
+               <lb/>
+               <rs ref="#zeckl_alfred" type="person"> Fachschaftsleiter <lb/> A. Zeckl</rs>
+            </signed>
+         </div>
+      </body>
+   <back><listPerson><person xml:id="lenz_jakob">
+                  <persName>
+                     <surname>Lenz</surname>
+                     <forename type="first">Jakob</forename>
+                     <forename type="middle">Michael</forename>
+                     <forename type="third">Reinhold</forename>
+                  </persName>
+                  <idno type="URL">http://d-nb.info/gnd/118571656</idno>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 5. Rundbriefs 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_005.xml"/></linkGrp></event></listEvent></person>
+               <person xml:id="kindermann_heinz" role="vocabs:inLeadingPosition">
+                  <persName>
+                     <surname>Kindermann</surname>
+                     <forename>Heinz</forename>
+                     <roleName type="degree" full="abb">Prof.</roleName>
+                     <roleName>Leiter des <rs type="org" ref="#zentralinstitut">Zentralinstituts für
+                           Theaterwissenschaft der Universität Wien</rs>
+                     </roleName>
+                  </persName>
+                  <idno type="URL">http://d-nb.info/gnd/118562193</idno>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 1. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_001.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 2. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_002.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 4. Rundbriefs (Teil 1) 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_004.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 4. Rundbriefs (Teil 2) 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_004_2.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 5. Rundbriefs 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_005.xml"/></linkGrp></event></listEvent></person>
+               <person xml:id="dürer_albrecht">
+                  <persName>
+                     <surname>Dürer</surname>
+                     <forename>Albrecht</forename>
+                  </persName>
+                  <idno type="URL">http://d-nb.info/gnd/11852786X</idno>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 5. Rundbriefs 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_005.xml"/></linkGrp></event></listEvent></person>
+               <person xml:id="storm_theodor">
+                  <persName>
+                     <surname>Storm</surname>
+                     <forename>Theodor</forename>
+                     <roleName>Schriftsteller</roleName>
+                  </persName>
+                  <idno type="URL">http://d-nb.info/gnd/118618725</idno>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 5. Rundbriefs 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_005.xml"/></linkGrp></event></listEvent></person>
+               <person xml:id="zeckl_alfred">
+                  <persName>
+                     <surname>Zeckl</surname>
+                     <forename>Alfred</forename>
+                     <roleName>Fachschaftsleiter</roleName>
+                  </persName>
+                  <idno type="URL"/>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 4. Rundbriefs (Teil 2) 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_004_2.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 5. Rundbriefs 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_005.xml"/></linkGrp></event></listEvent></person>
+               <person xml:id="spies_johann">
+                  <persName>
+                     <surname>Spies</surname>
+                     <forename>Johann</forename>
+                     <roleName>Buchdrucker</roleName>
+                  </persName>
+                  <idno>http://d-nb.info/gnd/11879826X</idno>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 5. Rundbriefs 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_005.xml"/></linkGrp></event></listEvent></person>
+               <person xml:id="aristoteles">
+                  <persName>
+                     <name>Aristoteles</name>
+                     <roleName>Philosoph</roleName>
+                  </persName>
+                  <idno type="URL">http://d-nb.info/gnd/118650130</idno>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 5. Rundbriefs 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_005.xml"/></linkGrp></event></listEvent></person>
+               <person xml:id="shakespeare_william">
+                  <persName>
+                     <surname>Shakespeare</surname>
+                     <forename>William</forename>
+                     <roleName>Dichter</roleName>
+                     <roleName>Dramatiker</roleName>
+                  </persName>
+                  <idno type="URL">http://d-nb.info/gnd/118613723</idno>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 4. Rundbriefs (Teil 2) 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_004_2.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 5. Rundbriefs 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_005.xml"/></linkGrp></event></listEvent></person>
+               <person xml:id="niederführ_otto">
+                  <persName>
+                     <surname>Niederführ</surname>
+                     <forename>Otto</forename>/&gt; <roleName type="degree" full="abb">Prof.</roleName>
+                  </persName>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 1. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_001.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 2. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_002.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 4. Rundbriefs (Teil 2) 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_004_2.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 5. Rundbriefs 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_005.xml"/></linkGrp></event></listEvent></person>
+               <person xml:id="müthel_lothar">
+                  <persName>
+                     <surname type="pseudo">Müthel</surname>
+                     <forename>Lothar</forename>
+                     <roleName>Generalintendant der Staatstheater</roleName>
+                  </persName>
+                  <idno type="URL">http://d-nb.info/gnd/119049309</idno>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 1. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_001.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 5. Rundbriefs 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_005.xml"/></linkGrp></event></listEvent></person>
+               <person xml:id="stumpfl_">
+                  <persName>
+                     <surname>Stumpfl</surname>
+                     <note>evtl. Friedrich Stumpfl?</note>
+                  </persName>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 5. Rundbriefs 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_005.xml"/></linkGrp></event></listEvent></person>
+               <person xml:id="eybner_richard">
+                  <persName>
+                     <surname>Eybner</surname>
+                     <forename>Richard</forename>
+                     <roleName>Burgschauspieler</roleName>
+                  </persName>
+                  <idno type="URL">http://d-nb.info/gnd/118531530</idno>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 5. Rundbriefs 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_005.xml"/></linkGrp></event></listEvent></person>
+               <person xml:id="kalidasa">
+                  <persName>
+                     <name>Kālidāsa</name>
+                     <roleName>Schriftsteller</roleName>
+                  </persName>
+                  <idno type="URL">http://d-nb.info/gnd/118559516</idno>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 5. Rundbriefs 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_005.xml"/></linkGrp></event></listEvent></person>
+               <person xml:id="reiter_vicky">
+                  <persName>
+                     <surname>Reiter</surname>
+                     <forename full="abb">Vicky</forename>
+                  </persName>
+                  <idno type="URL">https://orcid.org/0000-0002-7903-7353</idno>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 5. Rundbriefs 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_005.xml"/></linkGrp></event></listEvent></person>
+               <person xml:id="waniek_herbert">
+                  <persName>
+                     <surname>Waniek</surname>
+                     <forename>Herbert</forename>
+                     <roleName>Oberregisseur des <rs>Burgtheaters</rs>
+                     </roleName>
+                  </persName>
+                  <idno type="URL">http://d-nb.info/gnd/119282879</idno>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 4. Rundbriefs (Teil 2) 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_004_2.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 5. Rundbriefs 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_005.xml"/></linkGrp></event></listEvent></person>
+               <person xml:id="haeussermann_">
+                  <persName>
+                     <surname>Haeussermann</surname>
+                     <roleName>Burgschauspieler</roleName>
+                  </persName>
+                  <note>es gibt einen Reinhold Häussermann <idno type="URL">http://d-nb.info/gnd/130170402</idno>, der zeitlich passt (Burgschauspieler
+                     ab 1915). Bekannter ist sein Sohn Ernst Häussermann <idno type="URL">http://d-nb.info/gnd/116369582</idno>, der aber laut Wikipedia aufgrund
+                     seiner jüdischen Herkunft 1939 nach Amerika emigrieren musste, daher ist es der
+                     definitiv nicht.</note>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 5. Rundbriefs 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_005.xml"/></linkGrp></event></listEvent></person>
+               <person xml:id="kraft_adam">
+                  <persName>
+                     <surname>Kraft</surname>
+                     <forename>Adam</forename>
+                     <roleName>Bildhauer</roleName>
+                     <roleName>Baumeister</roleName>
+                  </persName>
+                  <idno type="person">http://d-nb.info/gnd/118715372</idno>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 5. Rundbriefs 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_005.xml"/></linkGrp></event></listEvent></person>
+               <person xml:id="stuppaeck_hermann">
+                  <persName>
+                     <surname>Stuppäck</surname>
+                     <forename>Hermann</forename>
+                     <roleName>Generalkulturreferent</roleName>
+                  </persName>
+                  <idno>http://d-nb.info/gnd/117363669</idno>
+                  <!-- https://books.google.at/books?id=doQrDwAAQBAJ&pg=PT106&lpg=PT106&dq=Generalkulturreferent+wien+1944&source=bl&ots=mF3wdmwwIl&sig=QOL6ZBJZjvMhThzPLsczBOWGgps&hl=de&sa=X&ved=0ahUKEwjdmf6U4KrZAhUCU1AKHREiCa4Q6AEIXTAJ#v=onepage&q=Generalkulturreferent%20wien%201944&f=false -->
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 5. Rundbriefs 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_005.xml"/></linkGrp></event></listEvent></person>
+               <person xml:id="rohner_">
+                  <persName>
+                     <surname>Rohner</surname>
+                     <roleName>Institutsmitglied</roleName>
+                  </persName>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 5. Rundbriefs 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_005.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="vischer_peter">
+                  <persName>
+                     <surname>Vischer</surname>
+                     <forename>Peter</forename>
+                     <roleName>Kunsthandwerker</roleName>
+                  </persName>
+                  <idno type="URL">http://d-nb.info/gnd/118768654</idno>
+                  <idno type="URL">http://d-nb.info/gnd/118768662</idno>
+                  <note>unklar - gibt einen Älteren und einen Jüngeren (zeitlich passen beide), die
+                     erste GND ist vom Älteren, die zweite vom Jüngeren</note>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 5. Rundbriefs 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_005.xml"/></linkGrp></event></listEvent></person>
+               <person xml:id="pirckheimer_willibald">
+                  <persName>
+                     <surname>Pirckheimer</surname>
+                     <forename>Willibald</forename>
+                     <roleName>Humanist</roleName>
+                  </persName>
+                  <idno type="URL">http://d-nb.info/gnd/118594605</idno>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 5. Rundbriefs 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_005.xml"/></linkGrp></event></listEvent></person>
+               <person xml:id="grillparzer_franz">
+                  <persName>
+                     <surname>Grillparzer</surname>
+                     <forename>Franz</forename>
+                     <idno type="URL">http://d-nb.info/gnd/118542192</idno>
+                  </persName>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 5. Rundbriefs 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_005.xml"/></linkGrp></event></listEvent></person>
+               <person xml:id="niedermoser_">
+                  <persName>
+                     <surname>Niedermoser</surname>
+                     <forename/>
+                     <roleName type="degree" full="abb">Prof.</roleName>
+                  </persName>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 2. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_002.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 4. Rundbriefs (Teil 2) 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_004_2.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 5. Rundbriefs 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_005.xml"/></linkGrp></event></listEvent></person>
+               <person xml:id="wagner_richard">
+                  <persName>
+                     <surname>Wagner</surname>
+                     <forename>Richard</forename>
+                     <roleName>Komponist</roleName>
+                  </persName>
+                  <idno type="URL">http://d-nb.info/gnd/118594117</idno>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 5. Rundbriefs 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_005.xml"/></linkGrp></event></listEvent></person>
+               <person xml:id="börge_vagn">
+                  <persName>
+                     <surname>Börge</surname>
+                     <forename>Vagn</forename>
+                     <roleName>Dozent</roleName>
+                     <roleName type="degree" full="abb">Dr.</roleName>
+                  </persName>
+                  <idno type="URL">http://d-nb.info/gnd/116224681</idno>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 1. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_001.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 2. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_002.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 4. Rundbriefs (Teil 2) 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_004_2.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 5. Rundbriefs 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_005.xml"/></linkGrp></event></listEvent></person>
+               <person xml:id="schmidt_wilhelm">
+                  <persName>
+                     <surname>Schmidt</surname>
+                     <forename>Wilhelm</forename>
+                     <roleName>Burgschauspieler</roleName>
+                  </persName>
+                  <note>https://de.wikipedia.org/wiki/Wilhelm_Schmidt_(Schauspieler)</note>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 5. Rundbriefs 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_005.xml"/></linkGrp></event></listEvent></person>
+               <person xml:id="goethe_johann">
+                  <persName>
+                     <surname>Goethe</surname>
+                     <forename type="first">Johann</forename>
+                     <forename type="middle">Wolfgang</forename>
+                     <nameLink>von</nameLink>
+                     <roleName>Universalgenie</roleName>
+                  </persName>
+                  <idno type="URL">http://d-nb.info/gnd/118540238</idno>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 2. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_002.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 4. Rundbriefs (Teil 2) 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_004_2.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 5. Rundbriefs 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_005.xml"/></linkGrp></event></listEvent></person>
+               <person xml:id="gottsched_johann">
+                  <persName>
+                     <surname>Gottsched</surname>
+                     <forename type="first">Johann</forename>
+                     <forename type="middle">Christoph</forename>
+                  </persName>
+                  <idno type="URL">http://d-nb.info/gnd/118541013</idno>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 5. Rundbriefs 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_005.xml"/></linkGrp></event></listEvent></person>
+               <person xml:id="wieland_christoph">
+                  <persName>
+                     <surname>Wieland</surname>
+                     <forename type="first">Christoph</forename>
+                     <forename type="middle">Martin</forename>
+                  </persName>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 5. Rundbriefs 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_005.xml"/></linkGrp></event></listEvent></person>
+               <person xml:id="herterich_franz">
+                  <persName>
+                     <surname>Herterich</surname>
+                     <forename>Franz</forename>
+                     <roleName>Schauspieler</roleName>
+                     <roleName>Oberregisseur des <rs ref="#burgtheater" type="org">Burgtheaters</rs></roleName>
+                  </persName>
+                  <idno type="URL">http://d-nb.info/gnd/116752947</idno>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 4. Rundbriefs (Teil 2) 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_004_2.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 5. Rundbriefs 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_005.xml"/></linkGrp></event></listEvent></person>
+               <person xml:id="gerstner_">
+                  <persName>
+                     <surname>Gerstner</surname>
+                     <roleName>Institutsmitglied</roleName>
+                  </persName>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 5. Rundbriefs 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_005.xml"/></linkGrp></event></listEvent></person>
+               <person xml:id="gryphius_andreas">
+                  <persName>
+                     <surname>Gryphius</surname>
+                     <forename>Andreas</forename>
+                  </persName>
+                  <idno type="URL">http://d-nb.info/gnd/118543032</idno>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 5. Rundbriefs 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_005.xml"/></linkGrp></event></listEvent></person>
+               <person xml:id="sachs_hans">
+                  <persName>
+                     <surname>Sachs</surname>
+                     <forename>Hans</forename>
+                     <roleName>Meistersinger</roleName>
+                  </persName>
+                  <idno type="URL">http://d-nb.info/gnd/118604597</idno>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 5. Rundbriefs 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_005.xml"/></linkGrp></event></listEvent></person>
+               <person xml:id="marlowe_christopher">
+                  <persName>
+                     <surname>Marlowe</surname>
+                     <forename>Christopher</forename>
+                     <roleName>Dramatiker</roleName>
+                  </persName>
+                  <idno type="URL">http://d-nb.info/gnd/118578065</idno>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 4. Rundbriefs (Teil 2) 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_004_2.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 5. Rundbriefs 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_005.xml"/></linkGrp></event></listEvent></person>
+               <person xml:id="weinberger_hilde">
+                  <persName>
+                     <surname>Weinberger</surname>
+                     <forename>Hilde</forename>
+                  </persName>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 5. Rundbriefs 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_005.xml"/></linkGrp></event></listEvent></person>
+               </listPerson><listPlace><place xml:id="bayern" type="federal_state">
+               <placeName>Bayern</placeName>
+               <location>
+                  <geo decls="LatLng">49 11.5</geo>
+               </location>
+               <idno type="URL">http://www.geonames.org/2951839</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 5. Rundbriefs 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_005.xml"/></linkGrp></event></listEvent></place>
+            <place xml:id="frankfurt_main" type="city">
+               <placeName>Frankfurt am Main</placeName>
+               <location>
+                  <geo decls="LatLng">50.11552 8.68417</geo>
+               </location>
+               <idno type="URL">http://www.geonames.org/2925533</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 5. Rundbriefs 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_005.xml"/></linkGrp></event></listEvent></place>
+            <place xml:id="danzig" type="city">
+               <placeName>Danzig</placeName>
+               <location>
+                  <geo decls="LatLng">54.35250 18.64637</geo>
+               </location>
+               <idno type="URL">http://www.geonames.org/3099434</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 1. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_001.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 5. Rundbriefs 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_005.xml"/></linkGrp></event></listEvent></place>
+            <place xml:id="nürnberg" type="city">
+               <placeName>Nürnberg</placeName>
+               <location>
+                  <geo decls="LatLng">49.45421 11.07752</geo>
+               </location>
+               <idno type="URL">http://www.geonames.org/2861650</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 5. Rundbriefs 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_005.xml"/></linkGrp></event></listEvent></place>
+            <place xml:id="deutschland" type="country">
+               <placeName>Deutschland</placeName>
+               <location>
+                  <geo decls="LatLng">51.5 10.5</geo>
+               </location>
+               <idno type="URL">http://www.geonames.org/2921044</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 1. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_001.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 5. Rundbriefs 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_005.xml"/></linkGrp></event></listEvent></place>
+            <place xml:id="regensburg" type="city">
+               <placeName>Regensburg</placeName>
+               <location>
+                  <geo decls="LatLng">49.01513 12.10161</geo>
+               </location>
+               <idno type="URL">http://www.geonames.org/2849483</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 5. Rundbriefs 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_005.xml"/></linkGrp></event></listEvent></place>
+            <place xml:id="lübeck" type="city">
+               <placeName>Lübeck</placeName>
+               <location>
+                  <geo decls="LatLng">53.86893 10.68729</geo>
+               </location>
+               <idno type="URL">http://www.geonames.org/2875601</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 5. Rundbriefs 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_005.xml"/></linkGrp></event></listEvent></place>
+            <place xml:id="indien" type="country">
+               <placeName>Indien</placeName>
+               <location>
+                  <geo decls="LatLng">22 79</geo>
+               </location>
+               <idno type="URL">http://www.geonames.org/1269750</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 5. Rundbriefs 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_005.xml"/></linkGrp></event></listEvent></place>
+            <place xml:id="tirol" type="federal_state">
+               <placeName>Tirol</placeName>
+               <location>
+                  <geo decls="LatLng">47 11</geo>
+               </location>
+               <idno type="URL">http://www.geonames.org/2763587</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 5. Rundbriefs 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_005.xml"/></linkGrp></event></listEvent></place>
+            <place xml:id="aachen" type="city">
+                  <placeName>Aachen</placeName>
+                  <location>
+                     <geo decls="LatLng">50.77664 6.08342</geo>
+                  </location>
+                  <idno type="URL">http://www.geonames.org/3247449</idno>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 5. Rundbriefs 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_005.xml"/></linkGrp></event></listEvent></place>
+               <place xml:id="michaelerplatz" type="square">
+               <placeName>Michaelerplatz</placeName>
+               <location>
+                  <geo decls="LatLng">48.20797 16.36642</geo>
+               </location>
+               <idno type="URL">http://www.geonames.org/10244817</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 1. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_001.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 5. Rundbriefs 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_005.xml"/></linkGrp></event></listEvent></place>
+            <place xml:id="koblenz" type="city">
+               <placeName>Koblenz</placeName>
+               <location>
+                  <geo decls="LatLng">50.35357 7.57883</geo>
+               </location>
+               <idno type="URL">http://www.geonames.org/2886946</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 5. Rundbriefs 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_005.xml"/></linkGrp></event></listEvent></place>
+            <place xml:id="köln" type="city">
+               <placeName>Köln</placeName>
+               <location>
+                  <geo decls="LatLng">50.93333 6.95</geo>
+               </location>
+               <idno type="URL">http://www.geonames.org/2886242</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 5. Rundbriefs 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_005.xml"/></linkGrp></event></listEvent></place>
+               <place xml:id="italien" type="country">
+               <placeName>Italien</placeName>
+               <location>
+                  <geo decls="LatLng">42.83333 12.83333</geo>
+               </location>
+               <idno type="URL">http://www.geonames.org/3175395</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 5. Rundbriefs 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_005.xml"/></linkGrp></event></listEvent></place>
+            <place xml:id="franken" type="region">
+               <placeName>Franken</placeName>
+               <location>
+                  <geo decls="LatLng">50 9</geo>
+               </location>
+               <idno type="URL">http://www.geonames.org/2803465</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 5. Rundbriefs 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_005.xml"/></linkGrp></event></listEvent></place>
+            <place xml:id="innsbruck" type="city">
+               <placeName>Innsbruck</placeName>
+               <location>
+                  <geo decls="LatLng">47.26266 11.39454</geo>
+               </location>
+               <idno type="URL">http://www.geonames.org/2775220</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 5. Rundbriefs 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_005.xml"/></linkGrp></event></listEvent></place>
+            <place xml:id="graz" type="city">
+               <placeName>Graz</placeName>
+               <location>
+                  <geo decls="LatLng">47.06667 15.45</geo>
+               </location>
+               <idno type="URL">http://www.geonames.org/2778067</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 5. Rundbriefs 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_005.xml"/></linkGrp></event></listEvent></place>
+            <place xml:id="wien" type="city">
+               <placeName>Wien</placeName>
+               <location>
+                  <geo decls="#LatLng">48.20849 16.37208</geo>
+               </location>
+               <idno type="URL">http://www.geonames.org/2761369</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 1. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_001.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 4. Rundbriefs (Teil 2) 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_004_2.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 5. Rundbriefs 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_005.xml"/></linkGrp></event></listEvent></place>
+            <place xml:id="wels" type="city">
+                  <placeName>Wels</placeName>
+                  <location>
+                     <geo decls="LatLng">48.16667 14.03333</geo>
+                  </location>
+                  <idno type="URL">http://www.geonames.org/2761524</idno>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 5. Rundbriefs 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_005.xml"/></linkGrp></event></listEvent></place>
+            </listPlace><listOrg><org xml:id="universitaet_wien">
+                        <orgName>Universität Wien</orgName>
+                        <idno type="URL">http://d-nb.info/gnd/2024703-5</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 1. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_001.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 2. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_002.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 4. Rundbriefs (Teil 2) 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_004_2.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 5. Rundbriefs 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_005.xml"/></linkGrp></event></listEvent></org>
+                    <org xml:id="fachschaft_theater">
+                        <orgName>Fachschaft Theater am Zentralinstitut für Theaterwissenschaft der Universität Wien</orgName>
+                        <idno type="URL"/>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 4. Rundbriefs (Teil 2) 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_004_2.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 5. Rundbriefs 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_005.xml"/></linkGrp></event></listEvent></org>
+                    <org xml:id="max_reinhardt_seminar">
+                        <orgName>Max Reinhardt Seminar</orgName>
+                        <orgName type="alt">Institut für Schauspiel- und Schauspielregie</orgName>
+                        <orgName type="alt"><rs type="place" ref="#schoenbrunn">Schönbrunner</rs> Schauspiel- und
+                            Regieseminar</orgName>
+                        <orgName type="alt">Schauspielschule des Burgtheaters</orgName>
+                        <idno type="URL">http://d-nb.info/gnd/10091007-5</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 1. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_001.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 2. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_002.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 4. Rundbriefs (Teil 2) 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_004_2.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 5. Rundbriefs 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_005.xml"/></linkGrp></event></listEvent></org>
+                    <org xml:id="reichsstudentenführung">
+                    <orgName>Reichsstudentenführung</orgName>
+                    <note>https://de.wikipedia.org/wiki/Reichsstudentenführer</note>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 5. Rundbriefs 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_005.xml"/></linkGrp></event></listEvent></org>
+                    <org xml:id="staatsoper">
+                        <orgName>Wiener Staatsoper</orgName>
+                        <idno type="URL">http://d-nb.info/gnd/1131732448</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 2. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_002.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 5. Rundbriefs 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_005.xml"/></linkGrp></event></listEvent></org>
+                    <org xml:id="wehrmacht">
+                        <orgName>Deutsche Wehrmacht</orgName>
+                        <idno type="URL">http://d-nb.info/gnd/4064995-7</idno>
+                        <idno type="URL">http://d-nb.info/gnd/26159-2</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 1. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_001.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 5. Rundbriefs 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_005.xml"/></linkGrp></event></listEvent></org>
+                <org xml:id="zentralinstitut">
+                        <orgName>Zentralinstitut</orgName>
+                        <orgName type="alt">Zentralinstitut für Theaterwissenschaft</orgName>
+                        <idno type="URL">http://d-nb.info/gnd/10017549-1</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 1. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_001.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 1. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_001.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 2. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_002.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 4. Rundbriefs (Teil 1) 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_004.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 4. Rundbriefs (Teil 2) 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_004_2.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 5. Rundbriefs 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_005.xml"/></linkGrp></event></listEvent></org>
+                    <org xml:id="burgtheater">
+                        <orgName>Burgtheater</orgName>
+                        <idno type="URL">http://d-nb.info/gnd/38633-9</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 1. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_001.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 2. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_002.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 4. Rundbriefs (Teil 2) 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_004_2.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 5. Rundbriefs 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_005.xml"/></linkGrp></event></listEvent></org>
+                    <org xml:id="reichserziehungsministerium">
+                        <orgName>Reichsministerium für Wissenschaft, Erziehung und Volksbildung</orgName>
+                        <idno type="URL">http://d-nb.info/gnd/4357021-5</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 5. Rundbriefs 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_005.xml"/></linkGrp></event></listEvent></org>
+                    </listOrg></back></text>
+</TEI>

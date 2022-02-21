@@ -1,0 +1,2 @@
+#FORMAT: BEACON
+#NAME:Digital transcription of the "Rundbriefe des Zentralinstituts für Theaterwissenschaft" and annotation for a digital edition and web application according to the TEI guidelines

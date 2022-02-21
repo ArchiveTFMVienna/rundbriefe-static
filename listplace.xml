@@ -1,0 +1,283 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>List of places</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <listPlace xml:id="listplace">
+            <place xml:id="linz" type="city">
+               <placeName>Linz</placeName>
+               <location>
+                  <geo decls="#LatLng">48.30639 14.28611</geo>
+               </location>
+               <idno type="URL">http://www.geonames.org/2772400</idno>
+            </place>
+            <place xml:id="wien" type="city">
+               <placeName>Wien</placeName>
+               <location>
+                  <geo decls="#LatLng">48.20849 16.37208</geo>
+               </location>
+               <idno type="URL">http://www.geonames.org/2761369</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 1. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_001.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 4. Rundbriefs (Teil 2) 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_004_2.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 5. Rundbriefs 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_005.xml"/></linkGrp></event></listEvent></place>
+            <place xml:id="nürnberg" type="city">
+               <placeName>Nürnberg</placeName>
+               <location>
+                  <geo decls="LatLng">49.45421 11.07752</geo>
+               </location>
+               <idno type="URL">http://www.geonames.org/2861650</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 5. Rundbriefs 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_005.xml"/></linkGrp></event></listEvent></place>
+            <place xml:id="münster" type="city">
+               <placeName>Münster</placeName>
+               <location>
+                  <geo decls="LatLng">51.96236 7.62571</geo>
+               </location>
+               <idno type="URL">http://www.geonames.org/2867543</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 1. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_001.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 2. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_002.xml"/></linkGrp></event></listEvent></place>
+            <place xml:id="sibirien" type="region">
+               <placeName>Sibirien</placeName>
+               <location>
+                  <geo decls="LatLng">65 90</geo>
+               </location>
+               <idno type="URL">http://www.geonames.org/2016590</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 4. Rundbriefs (Teil 2) 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_004_2.xml"/></linkGrp></event></listEvent></place>
+            <place xml:id="flandern" type="region">
+               <placeName>Flandern</placeName>
+               <location>
+                  <geo decls="LatLng">51 4.5</geo>
+               </location>
+               <idno type="URL">http://www.geonames.org/3337388</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 4. Rundbriefs (Teil 2) 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_004_2.xml"/></linkGrp></event></listEvent></place>
+            <place xml:id="michaelerplatz" type="square">
+               <placeName>Michaelerplatz</placeName>
+               <location>
+                  <geo decls="LatLng">48.20797 16.36642</geo>
+               </location>
+               <idno type="URL">http://www.geonames.org/10244817</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 1. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_001.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 5. Rundbriefs 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_005.xml"/></linkGrp></event></listEvent></place>
+            <place xml:id="hofburg" type="building">
+               <placeName>Hofburg</placeName>
+               <location>
+                  <geo decls="LatLng">48.20563 16.36469</geo>
+               </location>
+               <idno type="URL">http://www.geonames.org/6354988</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 1. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_001.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 2. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_002.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 4. Rundbriefs (Teil 2) 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_004_2.xml"/></linkGrp></event></listEvent></place>
+            <place xml:id="regensburg" type="city">
+               <placeName>Regensburg</placeName>
+               <location>
+                  <geo decls="LatLng">49.01513 12.10161</geo>
+               </location>
+               <idno type="URL">http://www.geonames.org/2849483</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 5. Rundbriefs 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_005.xml"/></linkGrp></event></listEvent></place>
+            <place xml:id="tirol" type="federal_state">
+               <placeName>Tirol</placeName>
+               <location>
+                  <geo decls="LatLng">47 11</geo>
+               </location>
+               <idno type="URL">http://www.geonames.org/2763587</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 5. Rundbriefs 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_005.xml"/></linkGrp></event></listEvent></place>
+            <place xml:id="innsbruck" type="city">
+               <placeName>Innsbruck</placeName>
+               <location>
+                  <geo decls="LatLng">47.26266 11.39454</geo>
+               </location>
+               <idno type="URL">http://www.geonames.org/2775220</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 5. Rundbriefs 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_005.xml"/></linkGrp></event></listEvent></place>
+            <place xml:id="bayern" type="federal_state">
+               <placeName>Bayern</placeName>
+               <location>
+                  <geo decls="LatLng">49 11.5</geo>
+               </location>
+               <idno type="URL">http://www.geonames.org/2951839</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 5. Rundbriefs 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_005.xml"/></linkGrp></event></listEvent></place>
+            <place xml:id="franken" type="region">
+               <placeName>Franken</placeName>
+               <location>
+                  <geo decls="LatLng">50 9</geo>
+               </location>
+               <idno type="URL">http://www.geonames.org/2803465</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 5. Rundbriefs 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_005.xml"/></linkGrp></event></listEvent></place>
+            <place xml:id="koblenz" type="city">
+               <placeName>Koblenz</placeName>
+               <location>
+                  <geo decls="LatLng">50.35357 7.57883</geo>
+               </location>
+               <idno type="URL">http://www.geonames.org/2886946</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 5. Rundbriefs 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_005.xml"/></linkGrp></event></listEvent></place>
+            <place xml:id="köln" type="city">
+               <placeName>Köln</placeName>
+               <location>
+                  <geo decls="LatLng">50.93333 6.95</geo>
+               </location>
+               <idno type="URL">http://www.geonames.org/2886242</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 5. Rundbriefs 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_005.xml"/></linkGrp></event></listEvent></place>
+               <place xml:id="aachen" type="city">
+                  <placeName>Aachen</placeName>
+                  <location>
+                     <geo decls="LatLng">50.77664 6.08342</geo>
+                  </location>
+                  <idno type="URL">http://www.geonames.org/3247449</idno>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 5. Rundbriefs 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_005.xml"/></linkGrp></event></listEvent></place>
+               <place xml:id="wels" type="city">
+                  <placeName>Wels</placeName>
+                  <location>
+                     <geo decls="LatLng">48.16667 14.03333</geo>
+                  </location>
+                  <idno type="URL">http://www.geonames.org/2761524</idno>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 5. Rundbriefs 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_005.xml"/></linkGrp></event></listEvent></place>
+            <place xml:id="lübeck" type="city">
+               <placeName>Lübeck</placeName>
+               <location>
+                  <geo decls="LatLng">53.86893 10.68729</geo>
+               </location>
+               <idno type="URL">http://www.geonames.org/2875601</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 5. Rundbriefs 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_005.xml"/></linkGrp></event></listEvent></place>
+            <place xml:id="europa" type="region">
+               <placeName>Europa</placeName>
+               <placeName type="alt">Abendland</placeName>
+               <location>
+                  <geo decls="LatLng">48.69096 9.14062</geo>
+               </location>
+               <idno type="URL">http://www.geonames.org/6255148</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 4. Rundbriefs (Teil 2) 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_004_2.xml"/></linkGrp></event></listEvent></place>
+            <place xml:id="duesseldorf" type="city">
+               <placeName>Düsseldorf</placeName>
+               <location>
+                  <geo decls="LatLng">51.225556 6.782778</geo>
+               </location>
+               <idno type="URL">http://www.geonames.org/2934246</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 4. Rundbriefs (Teil 2) 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_004_2.xml"/></linkGrp></event></listEvent></place>
+            <place xml:id="kleinmachnow" type="city">
+               <placeName>Kleinmachnow (Berlin)</placeName>
+               <location>
+                  <geo decls="LatLng">52.40786 13.22514</geo>
+               </location>
+               <idno type="URL">http://www.geonames.org/2888523</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 4. Rundbriefs (Teil 2) 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_004_2.xml"/></linkGrp></event></listEvent></place>
+            <place xml:id="schoenbrunn" type="district">
+               <placeName>Schönbrunn</placeName>
+               <location>
+                  <geo decls="LatLng">48.18494 16.31229</geo>
+               </location>
+               <idno type="URL">http://d-nb.info/gnd/4318901-5</idno>
+            </place>
+            <place xml:id="berlin" type="city">
+               <placeName>Berlin</placeName>
+               <location>
+                  <geo decls="LatLng">52.518611 13.408333</geo>
+               </location>
+               <idno type="URL">http://d-nb.info/gnd/4005728-8</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 2. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_002.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 4. Rundbriefs (Teil 2) 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_004_2.xml"/></linkGrp></event></listEvent></place>
+            <place xml:id="alsfeld" type="city">
+               <placeName>Alsfeld</placeName>
+               <location>
+                  <geo decls="LatLng">50.750556 9.266944</geo>
+               </location>
+               <idno type="URL">http://d-nb.info/gnd/4001366-2</idno>
+            </place>
+            <place xml:id="weimar" type="city">
+               <placeName>Weimar</placeName>
+               <location>
+                  <geo decls="LatLng">50.979444 11.329722</geo>
+               </location>
+               <idno type="URL">http://d-nb.info/gnd/4065105-8</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 4. Rundbriefs (Teil 2) 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_004_2.xml"/></linkGrp></event></listEvent></place>
+            <place xml:id="hannover" type="city">
+               <placeName>Hannover</placeName>
+               <location>
+                  <geo decls="LatLng">52.374444 9.738611</geo>
+               </location>
+               <idno type="URL">http://d-nb.info/gnd/4023349-2</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 4. Rundbriefs (Teil 2) 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_004_2.xml"/></linkGrp></event></listEvent></place>
+            <place xml:id="wien_I" type="district">
+               <placeName>Wien I</placeName>
+               <placeName type="alt">Wien Innere Stadt</placeName>
+               <location>
+                  <geo decls="LatLng">48.209722 16.37</geo>
+               </location>
+               <idno type="URL">http://d-nb.info/gnd/4302711-8</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 2. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_002.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 4. Rundbriefs (Teil 2) 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_004_2.xml"/></linkGrp></event></listEvent></place>
+            <place xml:id="dresden" type="city">
+               <placeName>Dresden</placeName>
+               <location>
+                  <geo decls="LatLng">51.05089 13.73832</geo>
+               </location>
+               <idno type="URL">http://d-nb.info/gnd/4012995-0</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 2. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_002.xml"/></linkGrp></event></listEvent></place>
+            <place xml:id="Wien" type="city">
+               <placeName>Wien</placeName>
+               <location>
+                  <geo decls="LatLng">48.210033 16.363449</geo>
+               </location>
+               <idno type="URL">https://d-nb.info/gnd/4066009-6</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 2. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_002.xml"/></linkGrp></event></listEvent></place>
+            <place xml:id="gera" type="city">
+               <placeName>Gera</placeName>
+               <location>
+                  <geo decls="LatLng">50.885071 12.080720</geo>
+               </location>
+               <idno type="URL">http://d-nb.info/gnd/4020295-1</idno>
+            </place>
+            <place xml:id="frankfurt_main" type="city">
+               <placeName>Frankfurt am Main</placeName>
+               <location>
+                  <geo decls="LatLng">50.11552 8.68417</geo>
+               </location>
+               <idno type="URL">http://www.geonames.org/2925533</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 5. Rundbriefs 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_005.xml"/></linkGrp></event></listEvent></place>
+            <place xml:id="indien" type="country">
+               <placeName>Indien</placeName>
+               <location>
+                  <geo decls="LatLng">22 79</geo>
+               </location>
+               <idno type="URL">http://www.geonames.org/1269750</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 5. Rundbriefs 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_005.xml"/></linkGrp></event></listEvent></place>
+            <place xml:id="deutschland" type="country">
+               <placeName>Deutschland</placeName>
+               <location>
+                  <geo decls="LatLng">51.5 10.5</geo>
+               </location>
+               <idno type="URL">http://www.geonames.org/2921044</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 1. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_001.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 5. Rundbriefs 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_005.xml"/></linkGrp></event></listEvent></place>
+            <place xml:id="italien" type="country">
+               <placeName>Italien</placeName>
+               <location>
+                  <geo decls="LatLng">42.83333 12.83333</geo>
+               </location>
+               <idno type="URL">http://www.geonames.org/3175395</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 5. Rundbriefs 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_005.xml"/></linkGrp></event></listEvent></place>
+            <place xml:id="graz" type="city">
+               <placeName>Graz</placeName>
+               <location>
+                  <geo decls="LatLng">47.06667 15.45</geo>
+               </location>
+               <idno type="URL">http://www.geonames.org/2778067</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 5. Rundbriefs 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_005.xml"/></linkGrp></event></listEvent></place>
+            <place xml:id="danzig" type="city">
+               <placeName>Danzig</placeName>
+               <location>
+                  <geo decls="LatLng">54.35250 18.64637</geo>
+               </location>
+               <idno type="URL">http://www.geonames.org/3099434</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 1. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_001.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 5. Rundbriefs 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_005.xml"/></linkGrp></event></listEvent></place>
+            <place xml:id="bonn" type="city">
+               <placeName>Bonn</placeName>
+               <location>
+                  <geo decls="LatLng">50.73438 7.09549</geo>
+               </location>
+               <idno type="URL">http://www.geonames.org/2946447</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 1. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_001.xml"/></linkGrp></event></listEvent></place>
+         </listPlace>
+      </body>
+  </text>
+</TEI>
