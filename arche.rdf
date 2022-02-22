@@ -223,37 +223,7 @@
       
       <acdh:hasSpatialCoverage>
          <acdh:Place rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und">Hofburg</acdh:hasTitle>
-         </acdh:Place>
-      </acdh:hasSpatialCoverage>
-      <acdh:hasSpatialCoverage>
-         <acdh:Place rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
             <acdh:hasTitle xml:lang="und">Düsseldorf</acdh:hasTitle>
-         </acdh:Place>
-      </acdh:hasSpatialCoverage>
-      <acdh:hasSpatialCoverage>
-         <acdh:Place rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und">Berlin</acdh:hasTitle>
-         </acdh:Place>
-      </acdh:hasSpatialCoverage>
-      <acdh:hasSpatialCoverage>
-         <acdh:Place rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und">Kleinmachnow (Berlin)</acdh:hasTitle>
-         </acdh:Place>
-      </acdh:hasSpatialCoverage>
-      <acdh:hasSpatialCoverage>
-         <acdh:Place rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und">Wien</acdh:hasTitle>
-         </acdh:Place>
-      </acdh:hasSpatialCoverage>
-      <acdh:hasSpatialCoverage>
-         <acdh:Place rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und">Hannover</acdh:hasTitle>
-         </acdh:Place>
-      </acdh:hasSpatialCoverage>
-      <acdh:hasSpatialCoverage>
-         <acdh:Place rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und">Weimar</acdh:hasTitle>
          </acdh:Place>
       </acdh:hasSpatialCoverage>
       <acdh:hasSpatialCoverage>
@@ -268,12 +238,42 @@
       </acdh:hasSpatialCoverage>
       <acdh:hasSpatialCoverage>
          <acdh:Place rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
+            <acdh:hasTitle xml:lang="und">Kleinmachnow (Berlin)</acdh:hasTitle>
+         </acdh:Place>
+      </acdh:hasSpatialCoverage>
+      <acdh:hasSpatialCoverage>
+         <acdh:Place rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
+            <acdh:hasTitle xml:lang="und">Wien</acdh:hasTitle>
+         </acdh:Place>
+      </acdh:hasSpatialCoverage>
+      <acdh:hasSpatialCoverage>
+         <acdh:Place rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
             <acdh:hasTitle xml:lang="und">Sibirien</acdh:hasTitle>
          </acdh:Place>
       </acdh:hasSpatialCoverage>
       <acdh:hasSpatialCoverage>
          <acdh:Place rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
             <acdh:hasTitle xml:lang="und">Flandern</acdh:hasTitle>
+         </acdh:Place>
+      </acdh:hasSpatialCoverage>
+      <acdh:hasSpatialCoverage>
+         <acdh:Place rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
+            <acdh:hasTitle xml:lang="und">Hannover</acdh:hasTitle>
+         </acdh:Place>
+      </acdh:hasSpatialCoverage>
+      <acdh:hasSpatialCoverage>
+         <acdh:Place rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
+            <acdh:hasTitle xml:lang="und">Hofburg</acdh:hasTitle>
+         </acdh:Place>
+      </acdh:hasSpatialCoverage>
+      <acdh:hasSpatialCoverage>
+         <acdh:Place rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
+            <acdh:hasTitle xml:lang="und">Berlin</acdh:hasTitle>
+         </acdh:Place>
+      </acdh:hasSpatialCoverage>
+      <acdh:hasSpatialCoverage>
+         <acdh:Place rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
+            <acdh:hasTitle xml:lang="und">Weimar</acdh:hasTitle>
          </acdh:Place>
       </acdh:hasSpatialCoverage>
       <acdh:hasActor>
@@ -283,27 +283,12 @@
       </acdh:hasActor>
       <acdh:hasActor>
          <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und">Heinz Kindermann</acdh:hasTitle>
+            <acdh:hasTitle xml:lang="und">Hermann Grom-Rottmayer</acdh:hasTitle>
          </acdh:Person>
       </acdh:hasActor>
       <acdh:hasActor>
          <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und">Franz Holbein</acdh:hasTitle>
-         </acdh:Person>
-      </acdh:hasActor>
-      <acdh:hasActor>
-         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und">William Shakespeare</acdh:hasTitle>
-         </acdh:Person>
-      </acdh:hasActor>
-      <acdh:hasActor>
-         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und">Alfred Zeckl</acdh:hasTitle>
-         </acdh:Person>
-      </acdh:hasActor>
-      <acdh:hasActor>
-         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und"> Karsten</acdh:hasTitle>
+            <acdh:hasTitle xml:lang="und">Friedrich Hebbel</acdh:hasTitle>
          </acdh:Person>
       </acdh:hasActor>
       <acdh:hasActor>
@@ -313,7 +298,27 @@
       </acdh:hasActor>
       <acdh:hasActor>
          <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und">Max Millenkovich</acdh:hasTitle>
+            <acdh:hasTitle xml:lang="und">Anna Exl</acdh:hasTitle>
+         </acdh:Person>
+      </acdh:hasActor>
+      <acdh:hasActor>
+         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
+            <acdh:hasTitle xml:lang="und"> Kranich</acdh:hasTitle>
+         </acdh:Person>
+      </acdh:hasActor>
+      <acdh:hasActor>
+         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
+            <acdh:hasTitle xml:lang="und"> Niedermoser</acdh:hasTitle>
+         </acdh:Person>
+      </acdh:hasActor>
+      <acdh:hasActor>
+         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
+            <acdh:hasTitle xml:lang="und">Johann Goethe</acdh:hasTitle>
+         </acdh:Person>
+      </acdh:hasActor>
+      <acdh:hasActor>
+         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
+            <acdh:hasTitle xml:lang="und">Otto Devrient</acdh:hasTitle>
          </acdh:Person>
       </acdh:hasActor>
       <acdh:hasActor>
@@ -323,27 +328,72 @@
       </acdh:hasActor>
       <acdh:hasActor>
          <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
+            <acdh:hasTitle xml:lang="und">William Shakespeare</acdh:hasTitle>
+         </acdh:Person>
+      </acdh:hasActor>
+      <acdh:hasActor>
+         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
             <acdh:hasTitle xml:lang="und">Christopher Marlowe</acdh:hasTitle>
          </acdh:Person>
       </acdh:hasActor>
       <acdh:hasActor>
          <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und">Gotthold Lessing</acdh:hasTitle>
+            <acdh:hasTitle xml:lang="und"> Winzberger</acdh:hasTitle>
          </acdh:Person>
       </acdh:hasActor>
       <acdh:hasActor>
          <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und">Anna Exl</acdh:hasTitle>
+            <acdh:hasTitle xml:lang="und">Heinz Kindermann</acdh:hasTitle>
          </acdh:Person>
       </acdh:hasActor>
       <acdh:hasActor>
          <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und">Bruno Iltz</acdh:hasTitle>
+            <acdh:hasTitle xml:lang="und">Friedrich Hölderlin</acdh:hasTitle>
+         </acdh:Person>
+      </acdh:hasActor>
+      <acdh:hasActor>
+         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
+            <acdh:hasTitle xml:lang="und">Franz Holbein</acdh:hasTitle>
+         </acdh:Person>
+      </acdh:hasActor>
+      <acdh:hasActor>
+         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
+            <acdh:hasTitle xml:lang="und">Max Millenkovich</acdh:hasTitle>
+         </acdh:Person>
+      </acdh:hasActor>
+      <acdh:hasActor>
+         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
+            <acdh:hasTitle xml:lang="und">Emil Pirchan</acdh:hasTitle>
+         </acdh:Person>
+      </acdh:hasActor>
+      <acdh:hasActor>
+         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
+            <acdh:hasTitle xml:lang="und">Mirko Jelusich</acdh:hasTitle>
+         </acdh:Person>
+      </acdh:hasActor>
+      <acdh:hasActor>
+         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
+            <acdh:hasTitle xml:lang="und"> Schönherr</acdh:hasTitle>
+         </acdh:Person>
+      </acdh:hasActor>
+      <acdh:hasActor>
+         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
+            <acdh:hasTitle xml:lang="und"> Lutz</acdh:hasTitle>
          </acdh:Person>
       </acdh:hasActor>
       <acdh:hasActor>
          <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
             <acdh:hasTitle xml:lang="und">Herbert Waniek</acdh:hasTitle>
+         </acdh:Person>
+      </acdh:hasActor>
+      <acdh:hasActor>
+         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
+            <acdh:hasTitle xml:lang="und"> Karsten</acdh:hasTitle>
+         </acdh:Person>
+      </acdh:hasActor>
+      <acdh:hasActor>
+         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
+            <acdh:hasTitle xml:lang="und">Luise Dumont</acdh:hasTitle>
          </acdh:Person>
       </acdh:hasActor>
       <acdh:hasActor>
@@ -358,22 +408,12 @@
       </acdh:hasActor>
       <acdh:hasActor>
          <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und">Luise Dumont</acdh:hasTitle>
+            <acdh:hasTitle xml:lang="und"> Weller</acdh:hasTitle>
          </acdh:Person>
       </acdh:hasActor>
       <acdh:hasActor>
          <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und"> Lutz</acdh:hasTitle>
-         </acdh:Person>
-      </acdh:hasActor>
-      <acdh:hasActor>
-         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und">Hugo Thimig</acdh:hasTitle>
-         </acdh:Person>
-      </acdh:hasActor>
-      <acdh:hasActor>
-         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und">Hermann Grom-Rottmayer</acdh:hasTitle>
+            <acdh:hasTitle xml:lang="und">Alfred Zeckl</acdh:hasTitle>
          </acdh:Person>
       </acdh:hasActor>
       <acdh:hasActor>
@@ -383,7 +423,17 @@
       </acdh:hasActor>
       <acdh:hasActor>
          <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und"> Schönherr</acdh:hasTitle>
+            <acdh:hasTitle xml:lang="und">Hugo Thimig</acdh:hasTitle>
+         </acdh:Person>
+      </acdh:hasActor>
+      <acdh:hasActor>
+         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
+            <acdh:hasTitle xml:lang="und">Gotthold Lessing</acdh:hasTitle>
+         </acdh:Person>
+      </acdh:hasActor>
+      <acdh:hasActor>
+         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
+            <acdh:hasTitle xml:lang="und">Bruno Iltz</acdh:hasTitle>
          </acdh:Person>
       </acdh:hasActor>
       <acdh:hasActor>
@@ -392,58 +442,8 @@
          </acdh:Person>
       </acdh:hasActor>
       <acdh:hasActor>
-         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und">Mirko Jelusich</acdh:hasTitle>
-         </acdh:Person>
-      </acdh:hasActor>
-      <acdh:hasActor>
-         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und">Friedrich Hölderlin</acdh:hasTitle>
-         </acdh:Person>
-      </acdh:hasActor>
-      <acdh:hasActor>
-         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und"> Niedermoser</acdh:hasTitle>
-         </acdh:Person>
-      </acdh:hasActor>
-      <acdh:hasActor>
-         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und"> Winzberger</acdh:hasTitle>
-         </acdh:Person>
-      </acdh:hasActor>
-      <acdh:hasActor>
-         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und">Emil Pirchan</acdh:hasTitle>
-         </acdh:Person>
-      </acdh:hasActor>
-      <acdh:hasActor>
-         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und"> Kranich</acdh:hasTitle>
-         </acdh:Person>
-      </acdh:hasActor>
-      <acdh:hasActor>
-         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und"> Weller</acdh:hasTitle>
-         </acdh:Person>
-      </acdh:hasActor>
-      <acdh:hasActor>
-         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und">Friedrich Hebbel</acdh:hasTitle>
-         </acdh:Person>
-      </acdh:hasActor>
-      <acdh:hasActor>
-         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und">Otto Devrient</acdh:hasTitle>
-         </acdh:Person>
-      </acdh:hasActor>
-      <acdh:hasActor>
-         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und">Johann Goethe</acdh:hasTitle>
-         </acdh:Person>
-      </acdh:hasActor>
-      <acdh:hasActor>
-         <acdh:Organisation rdf:about="https://id.acdh.oeaw.ac.at/pmb/theaterwissenschaftliches_institut_hannover">
-            <acdh:hasTitle xml:lang="und">Theaterwissenschaftliches Institut an der </acdh:hasTitle>
+         <acdh:Organisation rdf:about="https://id.acdh.oeaw.ac.at/pmb/fachschaft_theater">
+            <acdh:hasTitle xml:lang="und">Fachschaft Theater am Zentralinstitut für Theaterwissenschaft der Universität Wien</acdh:hasTitle>
          </acdh:Organisation>
       </acdh:hasActor>
       <acdh:hasActor>
@@ -452,58 +452,13 @@
          </acdh:Organisation>
       </acdh:hasActor>
       <acdh:hasActor>
-         <acdh:Organisation rdf:about="https://id.acdh.oeaw.ac.at/pmb/akademietheater">
-            <acdh:hasTitle xml:lang="und">Akademietheater (Wien)</acdh:hasTitle>
-         </acdh:Organisation>
-      </acdh:hasActor>
-      <acdh:hasActor>
-         <acdh:Organisation rdf:about="https://id.acdh.oeaw.ac.at/pmb/exl_buehne">
-            <acdh:hasTitle xml:lang="und">Exl-Bühne</acdh:hasTitle>
-         </acdh:Organisation>
-      </acdh:hasActor>
-      <acdh:hasActor>
-         <acdh:Organisation rdf:about="https://id.acdh.oeaw.ac.at/pmb/technische_hochschule_hannover">
-            <acdh:hasTitle xml:lang="und">Technische Hochschule Hannover</acdh:hasTitle>
-         </acdh:Organisation>
-      </acdh:hasActor>
-      <acdh:hasActor>
-         <acdh:Organisation rdf:about="https://id.acdh.oeaw.ac.at/pmb/wien-film">
-            <acdh:hasTitle xml:lang="und">Wien-Film</acdh:hasTitle>
-         </acdh:Organisation>
-      </acdh:hasActor>
-      <acdh:hasActor>
-         <acdh:Organisation rdf:about="https://id.acdh.oeaw.ac.at/pmb/burgtheater">
-            <acdh:hasTitle xml:lang="und">Burgtheater</acdh:hasTitle>
-         </acdh:Organisation>
-      </acdh:hasActor>
-      <acdh:hasActor>
-         <acdh:Organisation rdf:about="https://id.acdh.oeaw.ac.at/pmb/deutsches_nationaltheater">
-            <acdh:hasTitle xml:lang="und">Deutsches Nationaltheater</acdh:hasTitle>
-         </acdh:Organisation>
-      </acdh:hasActor>
-      <acdh:hasActor>
-         <acdh:Organisation rdf:about="https://id.acdh.oeaw.ac.at/pmb/universitaet_jena">
-            <acdh:hasTitle xml:lang="und">Universität Jena</acdh:hasTitle>
-         </acdh:Organisation>
-      </acdh:hasActor>
-      <acdh:hasActor>
-         <acdh:Organisation rdf:about="https://id.acdh.oeaw.ac.at/pmb/deutsches_volkstheater">
-            <acdh:hasTitle xml:lang="und">Deutsches Volkstheater</acdh:hasTitle>
-         </acdh:Organisation>
-      </acdh:hasActor>
-      <acdh:hasActor>
-         <acdh:Organisation rdf:about="https://id.acdh.oeaw.ac.at/pmb/technische_hochschule_wien">
-            <acdh:hasTitle xml:lang="und">Technische Universität Wien</acdh:hasTitle>
-         </acdh:Organisation>
-      </acdh:hasActor>
-      <acdh:hasActor>
-         <acdh:Organisation rdf:about="https://id.acdh.oeaw.ac.at/pmb/max_reinhardt_seminar">
-            <acdh:hasTitle xml:lang="und">Max Reinhardt Seminar</acdh:hasTitle>
-         </acdh:Organisation>
-      </acdh:hasActor>
-      <acdh:hasActor>
          <acdh:Organisation rdf:about="https://id.acdh.oeaw.ac.at/pmb/ufa">
             <acdh:hasTitle xml:lang="und">UFA</acdh:hasTitle>
+         </acdh:Organisation>
+      </acdh:hasActor>
+      <acdh:hasActor>
+         <acdh:Organisation rdf:about="https://id.acdh.oeaw.ac.at/pmb/theaterwissenschaftliches_institut_hannover">
+            <acdh:hasTitle xml:lang="und">Theaterwissenschaftliches Institut an der </acdh:hasTitle>
          </acdh:Organisation>
       </acdh:hasActor>
       <acdh:hasActor>
@@ -512,8 +467,23 @@
          </acdh:Organisation>
       </acdh:hasActor>
       <acdh:hasActor>
+         <acdh:Organisation rdf:about="https://id.acdh.oeaw.ac.at/pmb/akademietheater">
+            <acdh:hasTitle xml:lang="und">Akademietheater (Wien)</acdh:hasTitle>
+         </acdh:Organisation>
+      </acdh:hasActor>
+      <acdh:hasActor>
          <acdh:Organisation rdf:about="https://id.acdh.oeaw.ac.at/pmb/duesseldorfer_schauspielhause">
             <acdh:hasTitle xml:lang="und">Düsseldorfer Schauspielhaus</acdh:hasTitle>
+         </acdh:Organisation>
+      </acdh:hasActor>
+      <acdh:hasActor>
+         <acdh:Organisation rdf:about="https://id.acdh.oeaw.ac.at/pmb/deutsches_nationaltheater">
+            <acdh:hasTitle xml:lang="und">Deutsches Nationaltheater</acdh:hasTitle>
+         </acdh:Organisation>
+      </acdh:hasActor>
+      <acdh:hasActor>
+         <acdh:Organisation rdf:about="https://id.acdh.oeaw.ac.at/pmb/deutsches_volkstheater">
+            <acdh:hasTitle xml:lang="und">Deutsches Volkstheater</acdh:hasTitle>
          </acdh:Organisation>
       </acdh:hasActor>
       <acdh:hasActor>
@@ -522,8 +492,38 @@
          </acdh:Organisation>
       </acdh:hasActor>
       <acdh:hasActor>
-         <acdh:Organisation rdf:about="https://id.acdh.oeaw.ac.at/pmb/fachschaft_theater">
-            <acdh:hasTitle xml:lang="und">Fachschaft Theater am Zentralinstitut für Theaterwissenschaft der Universität Wien</acdh:hasTitle>
+         <acdh:Organisation rdf:about="https://id.acdh.oeaw.ac.at/pmb/max_reinhardt_seminar">
+            <acdh:hasTitle xml:lang="und">Max Reinhardt Seminar</acdh:hasTitle>
+         </acdh:Organisation>
+      </acdh:hasActor>
+      <acdh:hasActor>
+         <acdh:Organisation rdf:about="https://id.acdh.oeaw.ac.at/pmb/technische_hochschule_hannover">
+            <acdh:hasTitle xml:lang="und">Technische Hochschule Hannover</acdh:hasTitle>
+         </acdh:Organisation>
+      </acdh:hasActor>
+      <acdh:hasActor>
+         <acdh:Organisation rdf:about="https://id.acdh.oeaw.ac.at/pmb/burgtheater">
+            <acdh:hasTitle xml:lang="und">Burgtheater</acdh:hasTitle>
+         </acdh:Organisation>
+      </acdh:hasActor>
+      <acdh:hasActor>
+         <acdh:Organisation rdf:about="https://id.acdh.oeaw.ac.at/pmb/universitaet_jena">
+            <acdh:hasTitle xml:lang="und">Universität Jena</acdh:hasTitle>
+         </acdh:Organisation>
+      </acdh:hasActor>
+      <acdh:hasActor>
+         <acdh:Organisation rdf:about="https://id.acdh.oeaw.ac.at/pmb/technische_hochschule_wien">
+            <acdh:hasTitle xml:lang="und">Technische Universität Wien</acdh:hasTitle>
+         </acdh:Organisation>
+      </acdh:hasActor>
+      <acdh:hasActor>
+         <acdh:Organisation rdf:about="https://id.acdh.oeaw.ac.at/pmb/exl_buehne">
+            <acdh:hasTitle xml:lang="und">Exl-Bühne</acdh:hasTitle>
+         </acdh:Organisation>
+      </acdh:hasActor>
+      <acdh:hasActor>
+         <acdh:Organisation rdf:about="https://id.acdh.oeaw.ac.at/pmb/wien-film">
+            <acdh:hasTitle xml:lang="und">Wien-Film</acdh:hasTitle>
          </acdh:Organisation>
       </acdh:hasActor>
    </acdh:Resource>
@@ -562,27 +562,7 @@
       
       <acdh:hasSpatialCoverage>
          <acdh:Place rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und">Hofburg</acdh:hasTitle>
-         </acdh:Place>
-      </acdh:hasSpatialCoverage>
-      <acdh:hasSpatialCoverage>
-         <acdh:Place rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
             <acdh:hasTitle xml:lang="und">Münster</acdh:hasTitle>
-         </acdh:Place>
-      </acdh:hasSpatialCoverage>
-      <acdh:hasSpatialCoverage>
-         <acdh:Place rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und">Michaelerplatz</acdh:hasTitle>
-         </acdh:Place>
-      </acdh:hasSpatialCoverage>
-      <acdh:hasSpatialCoverage>
-         <acdh:Place rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und">Deutschland</acdh:hasTitle>
-         </acdh:Place>
-      </acdh:hasSpatialCoverage>
-      <acdh:hasSpatialCoverage>
-         <acdh:Place rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und">Wien</acdh:hasTitle>
          </acdh:Place>
       </acdh:hasSpatialCoverage>
       <acdh:hasSpatialCoverage>
@@ -592,22 +572,57 @@
       </acdh:hasSpatialCoverage>
       <acdh:hasSpatialCoverage>
          <acdh:Place rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
+            <acdh:hasTitle xml:lang="und">Deutschland</acdh:hasTitle>
+         </acdh:Place>
+      </acdh:hasSpatialCoverage>
+      <acdh:hasSpatialCoverage>
+         <acdh:Place rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
+            <acdh:hasTitle xml:lang="und">Hofburg</acdh:hasTitle>
+         </acdh:Place>
+      </acdh:hasSpatialCoverage>
+      <acdh:hasSpatialCoverage>
+         <acdh:Place rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
+            <acdh:hasTitle xml:lang="und">Michaelerplatz</acdh:hasTitle>
+         </acdh:Place>
+      </acdh:hasSpatialCoverage>
+      <acdh:hasSpatialCoverage>
+         <acdh:Place rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
             <acdh:hasTitle xml:lang="und">Bonn</acdh:hasTitle>
+         </acdh:Place>
+      </acdh:hasSpatialCoverage>
+      <acdh:hasSpatialCoverage>
+         <acdh:Place rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
+            <acdh:hasTitle xml:lang="und">Wien</acdh:hasTitle>
          </acdh:Place>
       </acdh:hasSpatialCoverage>
       <acdh:hasActor>
          <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und">Berthold Litzmann</acdh:hasTitle>
+            <acdh:hasTitle xml:lang="und">Alfred Eckmann</acdh:hasTitle>
          </acdh:Person>
       </acdh:hasActor>
       <acdh:hasActor>
          <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und">Heinz Kindermann</acdh:hasTitle>
+            <acdh:hasTitle xml:lang="und">Eduard Pernkopf</acdh:hasTitle>
          </acdh:Person>
       </acdh:hasActor>
       <acdh:hasActor>
          <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und">Heinz Hilpert</acdh:hasTitle>
+            <acdh:hasTitle xml:lang="und">Walter Thomas</acdh:hasTitle>
+         </acdh:Person>
+      </acdh:hasActor>
+      <acdh:hasActor>
+         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
+            <acdh:hasTitle xml:lang="und">Paul Hartmann</acdh:hasTitle>
+         </acdh:Person>
+      </acdh:hasActor>
+      <acdh:hasActor>
+         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
+            <acdh:hasTitle xml:lang="und">Raoul Aslan</acdh:hasTitle>
+         </acdh:Person>
+      </acdh:hasActor>
+      <acdh:hasActor>
+         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
+            <acdh:hasTitle xml:lang="und">Otto Tressler</acdh:hasTitle>
          </acdh:Person>
       </acdh:hasActor>
       <acdh:hasActor>
@@ -622,7 +637,7 @@
       </acdh:hasActor>
       <acdh:hasActor>
          <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und">Rainer Schlösser</acdh:hasTitle>
+            <acdh:hasTitle xml:lang="und">Patrick Aprent</acdh:hasTitle>
          </acdh:Person>
       </acdh:hasActor>
       <acdh:hasActor>
@@ -632,17 +647,32 @@
       </acdh:hasActor>
       <acdh:hasActor>
          <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und">Patrick Aprent</acdh:hasTitle>
-         </acdh:Person>
-      </acdh:hasActor>
-      <acdh:hasActor>
-         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und">Paul Hartmann</acdh:hasTitle>
-         </acdh:Person>
-      </acdh:hasActor>
-      <acdh:hasActor>
-         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
             <acdh:hasTitle xml:lang="und">Jakob Minor</acdh:hasTitle>
+         </acdh:Person>
+      </acdh:hasActor>
+      <acdh:hasActor>
+         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
+            <acdh:hasTitle xml:lang="und">Otto Niederführ</acdh:hasTitle>
+         </acdh:Person>
+      </acdh:hasActor>
+      <acdh:hasActor>
+         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
+            <acdh:hasTitle xml:lang="und">Gustave Schiffer</acdh:hasTitle>
+         </acdh:Person>
+      </acdh:hasActor>
+      <acdh:hasActor>
+         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
+            <acdh:hasTitle xml:lang="und">Heinz Kindermann</acdh:hasTitle>
+         </acdh:Person>
+      </acdh:hasActor>
+      <acdh:hasActor>
+         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
+            <acdh:hasTitle xml:lang="und">Berthold Litzmann</acdh:hasTitle>
+         </acdh:Person>
+      </acdh:hasActor>
+      <acdh:hasActor>
+         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
+            <acdh:hasTitle xml:lang="und">Karl Glossy</acdh:hasTitle>
          </acdh:Person>
       </acdh:hasActor>
       <acdh:hasActor>
@@ -652,7 +682,27 @@
       </acdh:hasActor>
       <acdh:hasActor>
          <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und">Otto Niederführ</acdh:hasTitle>
+            <acdh:hasTitle xml:lang="und">Charlotte Wolter</acdh:hasTitle>
+         </acdh:Person>
+      </acdh:hasActor>
+      <acdh:hasActor>
+         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
+            <acdh:hasTitle xml:lang="und">Joseph Schreyvogel</acdh:hasTitle>
+         </acdh:Person>
+      </acdh:hasActor>
+      <acdh:hasActor>
+         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
+            <acdh:hasTitle xml:lang="und">Ruth Meyer</acdh:hasTitle>
+         </acdh:Person>
+      </acdh:hasActor>
+      <acdh:hasActor>
+         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
+            <acdh:hasTitle xml:lang="und">Lothar Müthel</acdh:hasTitle>
+         </acdh:Person>
+      </acdh:hasActor>
+      <acdh:hasActor>
+         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
+            <acdh:hasTitle xml:lang="und">Heinz Hilpert</acdh:hasTitle>
          </acdh:Person>
       </acdh:hasActor>
       <acdh:hasActor>
@@ -667,42 +717,7 @@
       </acdh:hasActor>
       <acdh:hasActor>
          <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und">Gustave Schiffer</acdh:hasTitle>
-         </acdh:Person>
-      </acdh:hasActor>
-      <acdh:hasActor>
-         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und">Joseph Schreyvogel</acdh:hasTitle>
-         </acdh:Person>
-      </acdh:hasActor>
-      <acdh:hasActor>
-         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und">Lothar Müthel</acdh:hasTitle>
-         </acdh:Person>
-      </acdh:hasActor>
-      <acdh:hasActor>
-         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und">Alfred Eckmann</acdh:hasTitle>
-         </acdh:Person>
-      </acdh:hasActor>
-      <acdh:hasActor>
-         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und">Otto Tressler</acdh:hasTitle>
-         </acdh:Person>
-      </acdh:hasActor>
-      <acdh:hasActor>
-         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und">Ruth Meyer</acdh:hasTitle>
-         </acdh:Person>
-      </acdh:hasActor>
-      <acdh:hasActor>
-         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und">Raoul Aslan</acdh:hasTitle>
-         </acdh:Person>
-      </acdh:hasActor>
-      <acdh:hasActor>
-         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und">Charlotte Wolter</acdh:hasTitle>
+            <acdh:hasTitle xml:lang="und">Rainer Schlösser</acdh:hasTitle>
          </acdh:Person>
       </acdh:hasActor>
       <acdh:hasActor>
@@ -712,32 +727,12 @@
       </acdh:hasActor>
       <acdh:hasActor>
          <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und">Walter Thomas</acdh:hasTitle>
-         </acdh:Person>
-      </acdh:hasActor>
-      <acdh:hasActor>
-         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und">Karl Glossy</acdh:hasTitle>
-         </acdh:Person>
-      </acdh:hasActor>
-      <acdh:hasActor>
-         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
             <acdh:hasTitle xml:lang="und">Vagn Börge</acdh:hasTitle>
          </acdh:Person>
       </acdh:hasActor>
       <acdh:hasActor>
-         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und">Eduard Pernkopf</acdh:hasTitle>
-         </acdh:Person>
-      </acdh:hasActor>
-      <acdh:hasActor>
-         <acdh:Organisation rdf:about="https://id.acdh.oeaw.ac.at/pmb/max_reinhardt_seminar">
-            <acdh:hasTitle xml:lang="und">Max Reinhardt Seminar</acdh:hasTitle>
-         </acdh:Organisation>
-      </acdh:hasActor>
-      <acdh:hasActor>
-         <acdh:Organisation rdf:about="https://id.acdh.oeaw.ac.at/pmb/akademie_der_bildenden_kuenste">
-            <acdh:hasTitle xml:lang="und">Akademie der bildenden Künste Wien</acdh:hasTitle>
+         <acdh:Organisation rdf:about="https://id.acdh.oeaw.ac.at/pmb/universitaet_wien">
+            <acdh:hasTitle xml:lang="und">Universität Wien</acdh:hasTitle>
          </acdh:Organisation>
       </acdh:hasActor>
       <acdh:hasActor>
@@ -746,18 +741,8 @@
          </acdh:Organisation>
       </acdh:hasActor>
       <acdh:hasActor>
-         <acdh:Organisation rdf:about="https://id.acdh.oeaw.ac.at/pmb/theatersammlung_nationalbibliothek">
-            <acdh:hasTitle xml:lang="und">Österreichische Nationalbibliothek. Theatersammlung</acdh:hasTitle>
-         </acdh:Organisation>
-      </acdh:hasActor>
-      <acdh:hasActor>
-         <acdh:Organisation rdf:about="https://id.acdh.oeaw.ac.at/pmb/wehrmacht">
-            <acdh:hasTitle xml:lang="und">Deutsche Wehrmacht</acdh:hasTitle>
-         </acdh:Organisation>
-      </acdh:hasActor>
-      <acdh:hasActor>
-         <acdh:Organisation rdf:about="https://id.acdh.oeaw.ac.at/pmb/universitaet_wien">
-            <acdh:hasTitle xml:lang="und">Universität Wien</acdh:hasTitle>
+         <acdh:Organisation rdf:about="https://id.acdh.oeaw.ac.at/pmb/akademie_der_bildenden_kuenste">
+            <acdh:hasTitle xml:lang="und">Akademie der bildenden Künste Wien</acdh:hasTitle>
          </acdh:Organisation>
       </acdh:hasActor>
       <acdh:hasActor>
@@ -766,18 +751,33 @@
          </acdh:Organisation>
       </acdh:hasActor>
       <acdh:hasActor>
+         <acdh:Organisation rdf:about="https://id.acdh.oeaw.ac.at/pmb/zentralinstitut">
+            <acdh:hasTitle xml:lang="und">Zentralinstitut</acdh:hasTitle>
+         </acdh:Organisation>
+      </acdh:hasActor>
+      <acdh:hasActor>
+         <acdh:Organisation rdf:about="https://id.acdh.oeaw.ac.at/pmb/max_reinhardt_seminar">
+            <acdh:hasTitle xml:lang="und">Max Reinhardt Seminar</acdh:hasTitle>
+         </acdh:Organisation>
+      </acdh:hasActor>
+      <acdh:hasActor>
          <acdh:Organisation rdf:about="https://id.acdh.oeaw.ac.at/pmb/busch-bibliothek">
             <acdh:hasTitle xml:lang="und">Universitäts- und Landesbibliothek Münster - Theatersammlung Busch</acdh:hasTitle>
          </acdh:Organisation>
       </acdh:hasActor>
       <acdh:hasActor>
-         <acdh:Organisation rdf:about="https://id.acdh.oeaw.ac.at/pmb/holzhausens">
-            <acdh:hasTitle xml:lang="und">Adolf Holzhausens Nachfolger</acdh:hasTitle>
+         <acdh:Organisation rdf:about="https://id.acdh.oeaw.ac.at/pmb/wehrmacht">
+            <acdh:hasTitle xml:lang="und">Deutsche Wehrmacht</acdh:hasTitle>
          </acdh:Organisation>
       </acdh:hasActor>
       <acdh:hasActor>
-         <acdh:Organisation rdf:about="https://id.acdh.oeaw.ac.at/pmb/zentralinstitut">
-            <acdh:hasTitle xml:lang="und">Zentralinstitut</acdh:hasTitle>
+         <acdh:Organisation rdf:about="https://id.acdh.oeaw.ac.at/pmb/theatersammlung_nationalbibliothek">
+            <acdh:hasTitle xml:lang="und">Österreichische Nationalbibliothek. Theatersammlung</acdh:hasTitle>
+         </acdh:Organisation>
+      </acdh:hasActor>
+      <acdh:hasActor>
+         <acdh:Organisation rdf:about="https://id.acdh.oeaw.ac.at/pmb/holzhausens">
+            <acdh:hasTitle xml:lang="und">Adolf Holzhausens Nachfolger</acdh:hasTitle>
          </acdh:Organisation>
       </acdh:hasActor>
    </acdh:Resource>
@@ -816,7 +816,12 @@
       
       <acdh:hasSpatialCoverage>
          <acdh:Place rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und">Tirol</acdh:hasTitle>
+            <acdh:hasTitle xml:lang="und">Köln</acdh:hasTitle>
+         </acdh:Place>
+      </acdh:hasSpatialCoverage>
+      <acdh:hasSpatialCoverage>
+         <acdh:Place rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
+            <acdh:hasTitle xml:lang="und">Franken</acdh:hasTitle>
          </acdh:Place>
       </acdh:hasSpatialCoverage>
       <acdh:hasSpatialCoverage>
@@ -826,7 +831,17 @@
       </acdh:hasSpatialCoverage>
       <acdh:hasSpatialCoverage>
          <acdh:Place rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und">Lübeck</acdh:hasTitle>
+            <acdh:hasTitle xml:lang="und">Danzig</acdh:hasTitle>
+         </acdh:Place>
+      </acdh:hasSpatialCoverage>
+      <acdh:hasSpatialCoverage>
+         <acdh:Place rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
+            <acdh:hasTitle xml:lang="und">Deutschland</acdh:hasTitle>
+         </acdh:Place>
+      </acdh:hasSpatialCoverage>
+      <acdh:hasSpatialCoverage>
+         <acdh:Place rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
+            <acdh:hasTitle xml:lang="und">Italien</acdh:hasTitle>
          </acdh:Place>
       </acdh:hasSpatialCoverage>
       <acdh:hasSpatialCoverage>
@@ -841,42 +856,7 @@
       </acdh:hasSpatialCoverage>
       <acdh:hasSpatialCoverage>
          <acdh:Place rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und">Indien</acdh:hasTitle>
-         </acdh:Place>
-      </acdh:hasSpatialCoverage>
-      <acdh:hasSpatialCoverage>
-         <acdh:Place rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und">Wels</acdh:hasTitle>
-         </acdh:Place>
-      </acdh:hasSpatialCoverage>
-      <acdh:hasSpatialCoverage>
-         <acdh:Place rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und">Innsbruck</acdh:hasTitle>
-         </acdh:Place>
-      </acdh:hasSpatialCoverage>
-      <acdh:hasSpatialCoverage>
-         <acdh:Place rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
             <acdh:hasTitle xml:lang="und">Michaelerplatz</acdh:hasTitle>
-         </acdh:Place>
-      </acdh:hasSpatialCoverage>
-      <acdh:hasSpatialCoverage>
-         <acdh:Place rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und">Deutschland</acdh:hasTitle>
-         </acdh:Place>
-      </acdh:hasSpatialCoverage>
-      <acdh:hasSpatialCoverage>
-         <acdh:Place rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und">Köln</acdh:hasTitle>
-         </acdh:Place>
-      </acdh:hasSpatialCoverage>
-      <acdh:hasSpatialCoverage>
-         <acdh:Place rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und">Frankfurt am Main</acdh:hasTitle>
-         </acdh:Place>
-      </acdh:hasSpatialCoverage>
-      <acdh:hasSpatialCoverage>
-         <acdh:Place rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und">Wien</acdh:hasTitle>
          </acdh:Place>
       </acdh:hasSpatialCoverage>
       <acdh:hasSpatialCoverage>
@@ -891,147 +871,47 @@
       </acdh:hasSpatialCoverage>
       <acdh:hasSpatialCoverage>
          <acdh:Place rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und">Italien</acdh:hasTitle>
-         </acdh:Place>
-      </acdh:hasSpatialCoverage>
-      <acdh:hasSpatialCoverage>
-         <acdh:Place rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und">Danzig</acdh:hasTitle>
-         </acdh:Place>
-      </acdh:hasSpatialCoverage>
-      <acdh:hasSpatialCoverage>
-         <acdh:Place rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
             <acdh:hasTitle xml:lang="und">Bayern</acdh:hasTitle>
          </acdh:Place>
       </acdh:hasSpatialCoverage>
       <acdh:hasSpatialCoverage>
          <acdh:Place rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und">Franken</acdh:hasTitle>
+            <acdh:hasTitle xml:lang="und">Tirol</acdh:hasTitle>
+         </acdh:Place>
+      </acdh:hasSpatialCoverage>
+      <acdh:hasSpatialCoverage>
+         <acdh:Place rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
+            <acdh:hasTitle xml:lang="und">Innsbruck</acdh:hasTitle>
+         </acdh:Place>
+      </acdh:hasSpatialCoverage>
+      <acdh:hasSpatialCoverage>
+         <acdh:Place rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
+            <acdh:hasTitle xml:lang="und">Frankfurt am Main</acdh:hasTitle>
+         </acdh:Place>
+      </acdh:hasSpatialCoverage>
+      <acdh:hasSpatialCoverage>
+         <acdh:Place rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
+            <acdh:hasTitle xml:lang="und">Lübeck</acdh:hasTitle>
+         </acdh:Place>
+      </acdh:hasSpatialCoverage>
+      <acdh:hasSpatialCoverage>
+         <acdh:Place rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
+            <acdh:hasTitle xml:lang="und">Wien</acdh:hasTitle>
+         </acdh:Place>
+      </acdh:hasSpatialCoverage>
+      <acdh:hasSpatialCoverage>
+         <acdh:Place rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
+            <acdh:hasTitle xml:lang="und">Indien</acdh:hasTitle>
+         </acdh:Place>
+      </acdh:hasSpatialCoverage>
+      <acdh:hasSpatialCoverage>
+         <acdh:Place rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
+            <acdh:hasTitle xml:lang="und">Wels</acdh:hasTitle>
          </acdh:Place>
       </acdh:hasSpatialCoverage>
       <acdh:hasActor>
          <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und">Heinz Kindermann</acdh:hasTitle>
-         </acdh:Person>
-      </acdh:hasActor>
-      <acdh:hasActor>
-         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und"> Stumpfl</acdh:hasTitle>
-         </acdh:Person>
-      </acdh:hasActor>
-      <acdh:hasActor>
-         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und">Hans Sachs</acdh:hasTitle>
-         </acdh:Person>
-      </acdh:hasActor>
-      <acdh:hasActor>
-         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und">William Shakespeare</acdh:hasTitle>
-         </acdh:Person>
-      </acdh:hasActor>
-      <acdh:hasActor>
-         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und">Christoph Wieland</acdh:hasTitle>
-         </acdh:Person>
-      </acdh:hasActor>
-      <acdh:hasActor>
-         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und">Alfred Zeckl</acdh:hasTitle>
-         </acdh:Person>
-      </acdh:hasActor>
-      <acdh:hasActor>
-         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und">Hermann Stuppäck</acdh:hasTitle>
-         </acdh:Person>
-      </acdh:hasActor>
-      <acdh:hasActor>
-         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und">Franz Herterich</acdh:hasTitle>
-         </acdh:Person>
-      </acdh:hasActor>
-      <acdh:hasActor>
-         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und"> Niedermoser</acdh:hasTitle>
-         </acdh:Person>
-      </acdh:hasActor>
-      <acdh:hasActor>
-         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und"> Rohner</acdh:hasTitle>
-         </acdh:Person>
-      </acdh:hasActor>
-      <acdh:hasActor>
-         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und">Franz Grillparzer</acdh:hasTitle>
-         </acdh:Person>
-      </acdh:hasActor>
-      <acdh:hasActor>
-         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und"> Gerstner</acdh:hasTitle>
-         </acdh:Person>
-      </acdh:hasActor>
-      <acdh:hasActor>
-         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und">Theodor Storm</acdh:hasTitle>
-         </acdh:Person>
-      </acdh:hasActor>
-      <acdh:hasActor>
-         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und">Christopher Marlowe</acdh:hasTitle>
-         </acdh:Person>
-      </acdh:hasActor>
-      <acdh:hasActor>
-         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und">Peter Vischer</acdh:hasTitle>
-         </acdh:Person>
-      </acdh:hasActor>
-      <acdh:hasActor>
-         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
             <acdh:hasTitle xml:lang="und">Andreas Gryphius</acdh:hasTitle>
-         </acdh:Person>
-      </acdh:hasActor>
-      <acdh:hasActor>
-         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und">Richard Eybner</acdh:hasTitle>
-         </acdh:Person>
-      </acdh:hasActor>
-      <acdh:hasActor>
-         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und">Johann Gottsched</acdh:hasTitle>
-         </acdh:Person>
-      </acdh:hasActor>
-      <acdh:hasActor>
-         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und">Jakob Lenz</acdh:hasTitle>
-         </acdh:Person>
-      </acdh:hasActor>
-      <acdh:hasActor>
-         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und">Adam Kraft</acdh:hasTitle>
-         </acdh:Person>
-      </acdh:hasActor>
-      <acdh:hasActor>
-         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und">Lothar Müthel</acdh:hasTitle>
-         </acdh:Person>
-      </acdh:hasActor>
-      <acdh:hasActor>
-         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und">Albrecht Dürer</acdh:hasTitle>
-         </acdh:Person>
-      </acdh:hasActor>
-      <acdh:hasActor>
-         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und">Vicky Reiter</acdh:hasTitle>
-         </acdh:Person>
-      </acdh:hasActor>
-      <acdh:hasActor>
-         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und"> Haeussermann</acdh:hasTitle>
-         </acdh:Person>
-      </acdh:hasActor>
-      <acdh:hasActor>
-         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und">Johann Spies</acdh:hasTitle>
          </acdh:Person>
       </acdh:hasActor>
       <acdh:hasActor>
@@ -1041,17 +921,27 @@
       </acdh:hasActor>
       <acdh:hasActor>
          <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und">Wilhelm Schmidt</acdh:hasTitle>
+            <acdh:hasTitle xml:lang="und">Hilde Weinberger</acdh:hasTitle>
          </acdh:Person>
       </acdh:hasActor>
       <acdh:hasActor>
          <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und">Johann Goethe</acdh:hasTitle>
+            <acdh:hasTitle xml:lang="und">Vicky Reiter</acdh:hasTitle>
          </acdh:Person>
       </acdh:hasActor>
       <acdh:hasActor>
          <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und"> </acdh:hasTitle>
+            <acdh:hasTitle xml:lang="und">Adam Kraft</acdh:hasTitle>
+         </acdh:Person>
+      </acdh:hasActor>
+      <acdh:hasActor>
+         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
+            <acdh:hasTitle xml:lang="und">Franz Grillparzer</acdh:hasTitle>
+         </acdh:Person>
+      </acdh:hasActor>
+      <acdh:hasActor>
+         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
+            <acdh:hasTitle xml:lang="und">Peter Vischer</acdh:hasTitle>
          </acdh:Person>
       </acdh:hasActor>
       <acdh:hasActor>
@@ -1061,7 +951,107 @@
       </acdh:hasActor>
       <acdh:hasActor>
          <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und">Hilde Weinberger</acdh:hasTitle>
+            <acdh:hasTitle xml:lang="und">Otto Niederführ</acdh:hasTitle>
+         </acdh:Person>
+      </acdh:hasActor>
+      <acdh:hasActor>
+         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
+            <acdh:hasTitle xml:lang="und">Hermann Stuppäck</acdh:hasTitle>
+         </acdh:Person>
+      </acdh:hasActor>
+      <acdh:hasActor>
+         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
+            <acdh:hasTitle xml:lang="und">Albrecht Dürer</acdh:hasTitle>
+         </acdh:Person>
+      </acdh:hasActor>
+      <acdh:hasActor>
+         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
+            <acdh:hasTitle xml:lang="und">Franz Herterich</acdh:hasTitle>
+         </acdh:Person>
+      </acdh:hasActor>
+      <acdh:hasActor>
+         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
+            <acdh:hasTitle xml:lang="und">Johann Spies</acdh:hasTitle>
+         </acdh:Person>
+      </acdh:hasActor>
+      <acdh:hasActor>
+         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
+            <acdh:hasTitle xml:lang="und">Christopher Marlowe</acdh:hasTitle>
+         </acdh:Person>
+      </acdh:hasActor>
+      <acdh:hasActor>
+         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
+            <acdh:hasTitle xml:lang="und">William Shakespeare</acdh:hasTitle>
+         </acdh:Person>
+      </acdh:hasActor>
+      <acdh:hasActor>
+         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
+            <acdh:hasTitle xml:lang="und">Hans Sachs</acdh:hasTitle>
+         </acdh:Person>
+      </acdh:hasActor>
+      <acdh:hasActor>
+         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
+            <acdh:hasTitle xml:lang="und">Heinz Kindermann</acdh:hasTitle>
+         </acdh:Person>
+      </acdh:hasActor>
+      <acdh:hasActor>
+         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
+            <acdh:hasTitle xml:lang="und">Johann Gottsched</acdh:hasTitle>
+         </acdh:Person>
+      </acdh:hasActor>
+      <acdh:hasActor>
+         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
+            <acdh:hasTitle xml:lang="und"> </acdh:hasTitle>
+         </acdh:Person>
+      </acdh:hasActor>
+      <acdh:hasActor>
+         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
+            <acdh:hasTitle xml:lang="und">Christoph Wieland</acdh:hasTitle>
+         </acdh:Person>
+      </acdh:hasActor>
+      <acdh:hasActor>
+         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
+            <acdh:hasTitle xml:lang="und"> Haeussermann</acdh:hasTitle>
+         </acdh:Person>
+      </acdh:hasActor>
+      <acdh:hasActor>
+         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
+            <acdh:hasTitle xml:lang="und"> Gerstner</acdh:hasTitle>
+         </acdh:Person>
+      </acdh:hasActor>
+      <acdh:hasActor>
+         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
+            <acdh:hasTitle xml:lang="und"> Stumpfl</acdh:hasTitle>
+         </acdh:Person>
+      </acdh:hasActor>
+      <acdh:hasActor>
+         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
+            <acdh:hasTitle xml:lang="und"> Rohner</acdh:hasTitle>
+         </acdh:Person>
+      </acdh:hasActor>
+      <acdh:hasActor>
+         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
+            <acdh:hasTitle xml:lang="und">Alfred Zeckl</acdh:hasTitle>
+         </acdh:Person>
+      </acdh:hasActor>
+      <acdh:hasActor>
+         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
+            <acdh:hasTitle xml:lang="und">Theodor Storm</acdh:hasTitle>
+         </acdh:Person>
+      </acdh:hasActor>
+      <acdh:hasActor>
+         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
+            <acdh:hasTitle xml:lang="und">Lothar Müthel</acdh:hasTitle>
+         </acdh:Person>
+      </acdh:hasActor>
+      <acdh:hasActor>
+         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
+            <acdh:hasTitle xml:lang="und">Richard Eybner</acdh:hasTitle>
+         </acdh:Person>
+      </acdh:hasActor>
+      <acdh:hasActor>
+         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
+            <acdh:hasTitle xml:lang="und">Jakob Lenz</acdh:hasTitle>
          </acdh:Person>
       </acdh:hasActor>
       <acdh:hasActor>
@@ -1076,22 +1066,32 @@
       </acdh:hasActor>
       <acdh:hasActor>
          <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
+            <acdh:hasTitle xml:lang="und">Wilhelm Schmidt</acdh:hasTitle>
+         </acdh:Person>
+      </acdh:hasActor>
+      <acdh:hasActor>
+         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
             <acdh:hasTitle xml:lang="und">Vagn Börge</acdh:hasTitle>
          </acdh:Person>
       </acdh:hasActor>
       <acdh:hasActor>
          <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und">Otto Niederführ</acdh:hasTitle>
+            <acdh:hasTitle xml:lang="und"> Niedermoser</acdh:hasTitle>
          </acdh:Person>
       </acdh:hasActor>
       <acdh:hasActor>
-         <acdh:Organisation rdf:about="https://id.acdh.oeaw.ac.at/pmb/max_reinhardt_seminar">
-            <acdh:hasTitle xml:lang="und">Max Reinhardt Seminar</acdh:hasTitle>
+         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
+            <acdh:hasTitle xml:lang="und">Johann Goethe</acdh:hasTitle>
+         </acdh:Person>
+      </acdh:hasActor>
+      <acdh:hasActor>
+         <acdh:Organisation rdf:about="https://id.acdh.oeaw.ac.at/pmb/universitaet_wien">
+            <acdh:hasTitle xml:lang="und">Universität Wien</acdh:hasTitle>
          </acdh:Organisation>
       </acdh:hasActor>
       <acdh:hasActor>
-         <acdh:Organisation rdf:about="https://id.acdh.oeaw.ac.at/pmb/zentralinstitut">
-            <acdh:hasTitle xml:lang="und">Zentralinstitut</acdh:hasTitle>
+         <acdh:Organisation rdf:about="https://id.acdh.oeaw.ac.at/pmb/burgtheater">
+            <acdh:hasTitle xml:lang="und">Burgtheater</acdh:hasTitle>
          </acdh:Organisation>
       </acdh:hasActor>
       <acdh:hasActor>
@@ -1100,8 +1100,23 @@
          </acdh:Organisation>
       </acdh:hasActor>
       <acdh:hasActor>
-         <acdh:Organisation rdf:about="https://id.acdh.oeaw.ac.at/pmb/burgtheater">
-            <acdh:hasTitle xml:lang="und">Burgtheater</acdh:hasTitle>
+         <acdh:Organisation rdf:about="https://id.acdh.oeaw.ac.at/pmb/zentralinstitut">
+            <acdh:hasTitle xml:lang="und">Zentralinstitut</acdh:hasTitle>
+         </acdh:Organisation>
+      </acdh:hasActor>
+      <acdh:hasActor>
+         <acdh:Organisation rdf:about="https://id.acdh.oeaw.ac.at/pmb/max_reinhardt_seminar">
+            <acdh:hasTitle xml:lang="und">Max Reinhardt Seminar</acdh:hasTitle>
+         </acdh:Organisation>
+      </acdh:hasActor>
+      <acdh:hasActor>
+         <acdh:Organisation rdf:about="https://id.acdh.oeaw.ac.at/pmb/wehrmacht">
+            <acdh:hasTitle xml:lang="und">Deutsche Wehrmacht</acdh:hasTitle>
+         </acdh:Organisation>
+      </acdh:hasActor>
+      <acdh:hasActor>
+         <acdh:Organisation rdf:about="https://id.acdh.oeaw.ac.at/pmb/staatsoper">
+            <acdh:hasTitle xml:lang="und">Wiener Staatsoper</acdh:hasTitle>
          </acdh:Organisation>
       </acdh:hasActor>
       <acdh:hasActor>
@@ -1112,21 +1127,6 @@
       <acdh:hasActor>
          <acdh:Organisation rdf:about="https://id.acdh.oeaw.ac.at/pmb/reichsstudentenführung">
             <acdh:hasTitle xml:lang="und">Reichsstudentenführung</acdh:hasTitle>
-         </acdh:Organisation>
-      </acdh:hasActor>
-      <acdh:hasActor>
-         <acdh:Organisation rdf:about="https://id.acdh.oeaw.ac.at/pmb/wehrmacht">
-            <acdh:hasTitle xml:lang="und">Deutsche Wehrmacht</acdh:hasTitle>
-         </acdh:Organisation>
-      </acdh:hasActor>
-      <acdh:hasActor>
-         <acdh:Organisation rdf:about="https://id.acdh.oeaw.ac.at/pmb/universitaet_wien">
-            <acdh:hasTitle xml:lang="und">Universität Wien</acdh:hasTitle>
-         </acdh:Organisation>
-      </acdh:hasActor>
-      <acdh:hasActor>
-         <acdh:Organisation rdf:about="https://id.acdh.oeaw.ac.at/pmb/staatsoper">
-            <acdh:hasTitle xml:lang="und">Wiener Staatsoper</acdh:hasTitle>
          </acdh:Organisation>
       </acdh:hasActor>
    </acdh:Resource>
@@ -1198,12 +1198,7 @@
       
       <acdh:hasSpatialCoverage>
          <acdh:Place rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und">Berlin</acdh:hasTitle>
-         </acdh:Place>
-      </acdh:hasSpatialCoverage>
-      <acdh:hasSpatialCoverage>
-         <acdh:Place rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und">Hofburg</acdh:hasTitle>
+            <acdh:hasTitle xml:lang="und">Wien</acdh:hasTitle>
          </acdh:Place>
       </acdh:hasSpatialCoverage>
       <acdh:hasSpatialCoverage>
@@ -1218,7 +1213,7 @@
       </acdh:hasSpatialCoverage>
       <acdh:hasSpatialCoverage>
          <acdh:Place rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und">Wien</acdh:hasTitle>
+            <acdh:hasTitle xml:lang="und">Hofburg</acdh:hasTitle>
          </acdh:Place>
       </acdh:hasSpatialCoverage>
       <acdh:hasSpatialCoverage>
@@ -1226,109 +1221,14 @@
             <acdh:hasTitle xml:lang="und">Wien I</acdh:hasTitle>
          </acdh:Place>
       </acdh:hasSpatialCoverage>
+      <acdh:hasSpatialCoverage>
+         <acdh:Place rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
+            <acdh:hasTitle xml:lang="und">Berlin</acdh:hasTitle>
+         </acdh:Place>
+      </acdh:hasSpatialCoverage>
       <acdh:hasActor>
          <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und">Heinz Kindermann</acdh:hasTitle>
-         </acdh:Person>
-      </acdh:hasActor>
-      <acdh:hasActor>
-         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und">Richard Strauß</acdh:hasTitle>
-         </acdh:Person>
-      </acdh:hasActor>
-      <acdh:hasActor>
-         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und">Margret Dietrich</acdh:hasTitle>
-         </acdh:Person>
-      </acdh:hasActor>
-      <acdh:hasActor>
-         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und">Ferdinand Raimund</acdh:hasTitle>
-         </acdh:Person>
-      </acdh:hasActor>
-      <acdh:hasActor>
-         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und">Anna Bahr-Mildenburg</acdh:hasTitle>
-         </acdh:Person>
-      </acdh:hasActor>
-      <acdh:hasActor>
-         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und"> Niedermoser</acdh:hasTitle>
-         </acdh:Person>
-      </acdh:hasActor>
-      <acdh:hasActor>
-         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und">Heinrich George</acdh:hasTitle>
-         </acdh:Person>
-      </acdh:hasActor>
-      <acdh:hasActor>
-         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und">Janina Piech</acdh:hasTitle>
-         </acdh:Person>
-      </acdh:hasActor>
-      <acdh:hasActor>
-         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und">Sara Tiefenbacher</acdh:hasTitle>
-         </acdh:Person>
-      </acdh:hasActor>
-      <acdh:hasActor>
-         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und"> Lutz</acdh:hasTitle>
-         </acdh:Person>
-      </acdh:hasActor>
-      <acdh:hasActor>
-         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und">Gustaf Gründgens</acdh:hasTitle>
-         </acdh:Person>
-      </acdh:hasActor>
-      <acdh:hasActor>
-         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und">Else Pilger</acdh:hasTitle>
-         </acdh:Person>
-      </acdh:hasActor>
-      <acdh:hasActor>
-         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und">Otto Rommel</acdh:hasTitle>
-         </acdh:Person>
-      </acdh:hasActor>
-      <acdh:hasActor>
-         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und">Hermann Grom-Rottmayer</acdh:hasTitle>
-         </acdh:Person>
-      </acdh:hasActor>
-      <acdh:hasActor>
-         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und">Joseph Gregor</acdh:hasTitle>
-         </acdh:Person>
-      </acdh:hasActor>
-      <acdh:hasActor>
-         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und">Emil Pirchan</acdh:hasTitle>
-         </acdh:Person>
-      </acdh:hasActor>
-      <acdh:hasActor>
-         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und">Gustave Schiffer</acdh:hasTitle>
-         </acdh:Person>
-      </acdh:hasActor>
-      <acdh:hasActor>
-         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und">Margarete Zirnig</acdh:hasTitle>
-         </acdh:Person>
-      </acdh:hasActor>
-      <acdh:hasActor>
-         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und">Willibald Gluck</acdh:hasTitle>
-         </acdh:Person>
-      </acdh:hasActor>
-      <acdh:hasActor>
-         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und">Fritz Schuh</acdh:hasTitle>
-         </acdh:Person>
-      </acdh:hasActor>
-      <acdh:hasActor>
-         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und">Ruth Meyer</acdh:hasTitle>
+            <acdh:hasTitle xml:lang="und">Georg Edmund Alfred Leuschke</acdh:hasTitle>
          </acdh:Person>
       </acdh:hasActor>
       <acdh:hasActor>
@@ -1338,22 +1238,62 @@
       </acdh:hasActor>
       <acdh:hasActor>
          <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und">Johann Goethe</acdh:hasTitle>
+            <acdh:hasTitle xml:lang="und">Sara Tiefenbacher</acdh:hasTitle>
          </acdh:Person>
       </acdh:hasActor>
       <acdh:hasActor>
          <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und">Ernst Wurm</acdh:hasTitle>
+            <acdh:hasTitle xml:lang="und">Margret Dietrich</acdh:hasTitle>
          </acdh:Person>
       </acdh:hasActor>
       <acdh:hasActor>
          <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und">Georg Edmund Alfred Leuschke</acdh:hasTitle>
+            <acdh:hasTitle xml:lang="und">Otto Rommel</acdh:hasTitle>
          </acdh:Person>
       </acdh:hasActor>
       <acdh:hasActor>
          <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und">Eduard Frank</acdh:hasTitle>
+            <acdh:hasTitle xml:lang="und">Heinrich George</acdh:hasTitle>
+         </acdh:Person>
+      </acdh:hasActor>
+      <acdh:hasActor>
+         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
+            <acdh:hasTitle xml:lang="und">Hermann Grom-Rottmayer</acdh:hasTitle>
+         </acdh:Person>
+      </acdh:hasActor>
+      <acdh:hasActor>
+         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
+            <acdh:hasTitle xml:lang="und">Ferdinand Raimund</acdh:hasTitle>
+         </acdh:Person>
+      </acdh:hasActor>
+      <acdh:hasActor>
+         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
+            <acdh:hasTitle xml:lang="und">Fritz Schuh</acdh:hasTitle>
+         </acdh:Person>
+      </acdh:hasActor>
+      <acdh:hasActor>
+         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
+            <acdh:hasTitle xml:lang="und"> Lutz</acdh:hasTitle>
+         </acdh:Person>
+      </acdh:hasActor>
+      <acdh:hasActor>
+         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
+            <acdh:hasTitle xml:lang="und">Janina Piech</acdh:hasTitle>
+         </acdh:Person>
+      </acdh:hasActor>
+      <acdh:hasActor>
+         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
+            <acdh:hasTitle xml:lang="und">Otto Niederführ</acdh:hasTitle>
+         </acdh:Person>
+      </acdh:hasActor>
+      <acdh:hasActor>
+         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
+            <acdh:hasTitle xml:lang="und">Willibald Gluck</acdh:hasTitle>
+         </acdh:Person>
+      </acdh:hasActor>
+      <acdh:hasActor>
+         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
+            <acdh:hasTitle xml:lang="und"> Niedermoser</acdh:hasTitle>
          </acdh:Person>
       </acdh:hasActor>
       <acdh:hasActor>
@@ -1363,32 +1303,77 @@
       </acdh:hasActor>
       <acdh:hasActor>
          <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
+            <acdh:hasTitle xml:lang="und">Margarete Zirnig</acdh:hasTitle>
+         </acdh:Person>
+      </acdh:hasActor>
+      <acdh:hasActor>
+         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
+            <acdh:hasTitle xml:lang="und">Gustave Schiffer</acdh:hasTitle>
+         </acdh:Person>
+      </acdh:hasActor>
+      <acdh:hasActor>
+         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
+            <acdh:hasTitle xml:lang="und">Heinz Kindermann</acdh:hasTitle>
+         </acdh:Person>
+      </acdh:hasActor>
+      <acdh:hasActor>
+         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
+            <acdh:hasTitle xml:lang="und">Gustaf Gründgens</acdh:hasTitle>
+         </acdh:Person>
+      </acdh:hasActor>
+      <acdh:hasActor>
+         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
+            <acdh:hasTitle xml:lang="und">Ruth Meyer</acdh:hasTitle>
+         </acdh:Person>
+      </acdh:hasActor>
+      <acdh:hasActor>
+         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
+            <acdh:hasTitle xml:lang="und">Ernst Wurm</acdh:hasTitle>
+         </acdh:Person>
+      </acdh:hasActor>
+      <acdh:hasActor>
+         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
+            <acdh:hasTitle xml:lang="und">Joseph Gregor</acdh:hasTitle>
+         </acdh:Person>
+      </acdh:hasActor>
+      <acdh:hasActor>
+         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
+            <acdh:hasTitle xml:lang="und">Anna Bahr-Mildenburg</acdh:hasTitle>
+         </acdh:Person>
+      </acdh:hasActor>
+      <acdh:hasActor>
+         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
+            <acdh:hasTitle xml:lang="und">Richard Strauß</acdh:hasTitle>
+         </acdh:Person>
+      </acdh:hasActor>
+      <acdh:hasActor>
+         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
+            <acdh:hasTitle xml:lang="und">Else Pilger</acdh:hasTitle>
+         </acdh:Person>
+      </acdh:hasActor>
+      <acdh:hasActor>
+         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
+            <acdh:hasTitle xml:lang="und">Emil Pirchan</acdh:hasTitle>
+         </acdh:Person>
+      </acdh:hasActor>
+      <acdh:hasActor>
+         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
             <acdh:hasTitle xml:lang="und">Vagn Börge</acdh:hasTitle>
          </acdh:Person>
       </acdh:hasActor>
       <acdh:hasActor>
          <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
-            <acdh:hasTitle xml:lang="und">Otto Niederführ</acdh:hasTitle>
+            <acdh:hasTitle xml:lang="und">Eduard Frank</acdh:hasTitle>
          </acdh:Person>
       </acdh:hasActor>
       <acdh:hasActor>
-         <acdh:Organisation rdf:about="https://id.acdh.oeaw.ac.at/pmb/max_reinhardt_seminar">
-            <acdh:hasTitle xml:lang="und">Max Reinhardt Seminar</acdh:hasTitle>
-         </acdh:Organisation>
+         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/pmb/">
+            <acdh:hasTitle xml:lang="und">Johann Goethe</acdh:hasTitle>
+         </acdh:Person>
       </acdh:hasActor>
       <acdh:hasActor>
-         <acdh:Organisation rdf:about="https://id.acdh.oeaw.ac.at/pmb/zentralinstitut">
-            <acdh:hasTitle xml:lang="und">Zentralinstitut</acdh:hasTitle>
-         </acdh:Organisation>
-      </acdh:hasActor>
-      <acdh:hasActor>
-         <acdh:Organisation rdf:about="https://id.acdh.oeaw.ac.at/pmb/akademie_der_bildenden_kuenste">
-            <acdh:hasTitle xml:lang="und">Akademie der bildenden Künste Wien</acdh:hasTitle>
-         </acdh:Organisation>
-      </acdh:hasActor>
-      <acdh:hasActor>
-         <acdh:Organisation rdf:about="https://id.acdh.oeaw.ac.at/pmb/verlag_matthiesen">
-            <acdh:hasTitle xml:lang="und">Verlag Matthiesen</acdh:hasTitle>
+         <acdh:Organisation rdf:about="https://id.acdh.oeaw.ac.at/pmb/universitaet_wien">
+            <acdh:hasTitle xml:lang="und">Universität Wien</acdh:hasTitle>
          </acdh:Organisation>
       </acdh:hasActor>
       <acdh:hasActor>
@@ -1397,33 +1382,8 @@
          </acdh:Organisation>
       </acdh:hasActor>
       <acdh:hasActor>
-         <acdh:Organisation rdf:about="https://id.acdh.oeaw.ac.at/pmb/stadtbibliothek">
-            <acdh:hasTitle xml:lang="und">Stadtbibliothek</acdh:hasTitle>
-         </acdh:Organisation>
-      </acdh:hasActor>
-      <acdh:hasActor>
-         <acdh:Organisation rdf:about="https://id.acdh.oeaw.ac.at/pmb/theatersammlung_nationalbibliothek">
-            <acdh:hasTitle xml:lang="und">Österreichische Nationalbibliothek. Theatersammlung</acdh:hasTitle>
-         </acdh:Organisation>
-      </acdh:hasActor>
-      <acdh:hasActor>
-         <acdh:Organisation rdf:about="https://id.acdh.oeaw.ac.at/pmb/wiener_verlag">
-            <acdh:hasTitle xml:lang="und">Wiener Verlag</acdh:hasTitle>
-         </acdh:Organisation>
-      </acdh:hasActor>
-      <acdh:hasActor>
-         <acdh:Organisation rdf:about="https://id.acdh.oeaw.ac.at/pmb/universitaet_wien">
-            <acdh:hasTitle xml:lang="und">Universität Wien</acdh:hasTitle>
-         </acdh:Organisation>
-      </acdh:hasActor>
-      <acdh:hasActor>
-         <acdh:Organisation rdf:about="https://id.acdh.oeaw.ac.at/pmb/staatsoper">
-            <acdh:hasTitle xml:lang="und">Wiener Staatsoper</acdh:hasTitle>
-         </acdh:Organisation>
-      </acdh:hasActor>
-      <acdh:hasActor>
-         <acdh:Organisation rdf:about="https://id.acdh.oeaw.ac.at/pmb/technische_hochschule_wien">
-            <acdh:hasTitle xml:lang="und">Technische Universität Wien</acdh:hasTitle>
+         <acdh:Organisation rdf:about="https://id.acdh.oeaw.ac.at/pmb/akademie_der_bildenden_kuenste">
+            <acdh:hasTitle xml:lang="und">Akademie der bildenden Künste Wien</acdh:hasTitle>
          </acdh:Organisation>
       </acdh:hasActor>
       <acdh:hasActor>
@@ -1432,8 +1392,13 @@
          </acdh:Organisation>
       </acdh:hasActor>
       <acdh:hasActor>
-         <acdh:Organisation rdf:about="https://id.acdh.oeaw.ac.at/pmb/propyläenverlag">
-            <acdh:hasTitle xml:lang="und">Propyläenverlag</acdh:hasTitle>
+         <acdh:Organisation rdf:about="https://id.acdh.oeaw.ac.at/pmb/stadtbibliothek">
+            <acdh:hasTitle xml:lang="und">Stadtbibliothek</acdh:hasTitle>
+         </acdh:Organisation>
+      </acdh:hasActor>
+      <acdh:hasActor>
+         <acdh:Organisation rdf:about="https://id.acdh.oeaw.ac.at/pmb/technische_hochschule_wien">
+            <acdh:hasTitle xml:lang="und">Technische Universität Wien</acdh:hasTitle>
          </acdh:Organisation>
       </acdh:hasActor>
       <acdh:hasActor>
@@ -1442,13 +1407,48 @@
          </acdh:Organisation>
       </acdh:hasActor>
       <acdh:hasActor>
-         <acdh:Organisation rdf:about="https://id.acdh.oeaw.ac.at/pmb/busch-bibliothek">
-            <acdh:hasTitle xml:lang="und">Universitäts- und Landesbibliothek Münster - Theatersammlung Busch</acdh:hasTitle>
+         <acdh:Organisation rdf:about="https://id.acdh.oeaw.ac.at/pmb/zentralinstitut">
+            <acdh:hasTitle xml:lang="und">Zentralinstitut</acdh:hasTitle>
+         </acdh:Organisation>
+      </acdh:hasActor>
+      <acdh:hasActor>
+         <acdh:Organisation rdf:about="https://id.acdh.oeaw.ac.at/pmb/max_reinhardt_seminar">
+            <acdh:hasTitle xml:lang="und">Max Reinhardt Seminar</acdh:hasTitle>
          </acdh:Organisation>
       </acdh:hasActor>
       <acdh:hasActor>
          <acdh:Organisation rdf:about="https://id.acdh.oeaw.ac.at/pmb/verlag_frick">
             <acdh:hasTitle xml:lang="und">Verlag Frick</acdh:hasTitle>
+         </acdh:Organisation>
+      </acdh:hasActor>
+      <acdh:hasActor>
+         <acdh:Organisation rdf:about="https://id.acdh.oeaw.ac.at/pmb/busch-bibliothek">
+            <acdh:hasTitle xml:lang="und">Universitäts- und Landesbibliothek Münster - Theatersammlung Busch</acdh:hasTitle>
+         </acdh:Organisation>
+      </acdh:hasActor>
+      <acdh:hasActor>
+         <acdh:Organisation rdf:about="https://id.acdh.oeaw.ac.at/pmb/wiener_verlag">
+            <acdh:hasTitle xml:lang="und">Wiener Verlag</acdh:hasTitle>
+         </acdh:Organisation>
+      </acdh:hasActor>
+      <acdh:hasActor>
+         <acdh:Organisation rdf:about="https://id.acdh.oeaw.ac.at/pmb/staatsoper">
+            <acdh:hasTitle xml:lang="und">Wiener Staatsoper</acdh:hasTitle>
+         </acdh:Organisation>
+      </acdh:hasActor>
+      <acdh:hasActor>
+         <acdh:Organisation rdf:about="https://id.acdh.oeaw.ac.at/pmb/propyläenverlag">
+            <acdh:hasTitle xml:lang="und">Propyläenverlag</acdh:hasTitle>
+         </acdh:Organisation>
+      </acdh:hasActor>
+      <acdh:hasActor>
+         <acdh:Organisation rdf:about="https://id.acdh.oeaw.ac.at/pmb/theatersammlung_nationalbibliothek">
+            <acdh:hasTitle xml:lang="und">Österreichische Nationalbibliothek. Theatersammlung</acdh:hasTitle>
+         </acdh:Organisation>
+      </acdh:hasActor>
+      <acdh:hasActor>
+         <acdh:Organisation rdf:about="https://id.acdh.oeaw.ac.at/pmb/verlag_matthiesen">
+            <acdh:hasTitle xml:lang="und">Verlag Matthiesen</acdh:hasTitle>
          </acdh:Organisation>
       </acdh:hasActor>
    </acdh:Resource>
