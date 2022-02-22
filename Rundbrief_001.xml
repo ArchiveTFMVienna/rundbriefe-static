@@ -550,7 +550,14 @@
             <p>Druck von <rs type="org" ref="holzhausens">Adolf Holzhausens Nfg.</rs>, Wien.</p>
          </div>
       </body>
-   <back><listPerson><person xml:id="kindermann_heinz" role="vocabs:inLeadingPosition">
+   <back><listPerson><person xml:id="litzmann_berthold">
+                  <persName>
+                     <surname>Litzmann</surname>
+                     <forename>Berthold</forename>
+                  </persName>
+                  <idno type="URL">http://d-nb.info/gnd/117066478</idno>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 1. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_001.xml"/></linkGrp></event></listEvent></person>
+               <person xml:id="kindermann_heinz" role="vocabs:inLeadingPosition">
                   <persName>
                      <surname>Kindermann</surname>
                      <forename>Heinz</forename>
@@ -561,73 +568,20 @@
                   </persName>
                   <idno type="URL">http://d-nb.info/gnd/118562193</idno>
                <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 1. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_001.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 2. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_002.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 4. Rundbriefs (Teil 1) 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_004.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 4. Rundbriefs (Teil 2) 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_004_2.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 5. Rundbriefs 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_005.xml"/></linkGrp></event></listEvent></person>
-               <person xml:id="thomas_walter">
+               <person xml:id="hilpert_heinz">
                   <persName>
-                     <surname>Thomas</surname>
-                     <forename>Walter</forename>
+                     <surname>Hilpert</surname>
+                     <forename>Heinz</forename>
                   </persName>
-                  <idno type="URL">http://d-nb.info/gnd/107583526</idno>
+                  <idno type="URL">http://d-nb.info/gnd/118704990</idno>
                <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 1. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_001.xml"/></linkGrp></event></listEvent></person>
-               <person xml:id="litzmann_berthold">
+               <person xml:id="dietrich_margret">
                   <persName>
-                     <surname>Litzmann</surname>
-                     <forename>Berthold</forename>
+                     <surname>Dietrich</surname>
+                     <forename>Margret</forename>
                   </persName>
-                  <idno type="URL">http://d-nb.info/gnd/117066478</idno>
-               <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 1. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_001.xml"/></linkGrp></event></listEvent></person>
-               <person xml:id="niederführ_otto">
-                  <persName>
-                     <surname>Niederführ</surname>
-                     <forename>Otto</forename>/&gt; <roleName type="degree" full="abb">Prof.</roleName>
-                  </persName>
-               <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 1. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_001.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 2. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_002.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 4. Rundbriefs (Teil 2) 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_004_2.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 5. Rundbriefs 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_005.xml"/></linkGrp></event></listEvent></person>
-               <person xml:id="müthel_lothar">
-                  <persName>
-                     <surname type="pseudo">Müthel</surname>
-                     <forename>Lothar</forename>
-                     <roleName>Generalintendant der Staatstheater</roleName>
-                  </persName>
-                  <idno type="URL">http://d-nb.info/gnd/119049309</idno>
-               <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 1. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_001.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 5. Rundbriefs 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_005.xml"/></linkGrp></event></listEvent></person>
-               <person xml:id="schirach_baldur">
-                  <persName>
-                     <surname>Schirach</surname>
-                     <nameLink>von</nameLink>
-                     <forename>Baldur</forename>
-                  </persName>
-                  <idno type="URL">http://d-nb.info/gnd/118607804</idno>
-               <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 1. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_001.xml"/></linkGrp></event></listEvent></person>
-               <person xml:id="schreyvogel_joseph">
-                  <persName>
-                     <surname>Schreyvogel</surname>
-                     <forename>Joseph</forename>
-                  </persName>
-                  <idno type="URL">http://d-nb.info/gnd/119368579</idno>
-               <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 1. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_001.xml"/></linkGrp></event></listEvent></person>
-               <person xml:id="wolter_charlotte">
-                  <persName>
-                     <surname>Wolter</surname>
-                     <forename>Charlotte</forename>
-                  </persName>
-                  <idno type="URL">http://d-nb.info/gnd/11880782X</idno>
-               <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 1. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_001.xml"/></linkGrp></event></listEvent></person>
-               <person xml:id="pernkopf_eduard">
-                  <persName>
-                     <surname>Pernkopf</surname>
-                     <forename>Eduard</forename>
-                     <roleName>Rektor der <rs type="org" ref="#universitaet_wien">Universität
-                           Wien</rs>
-                     </roleName>
-                  </persName>
-                  <idno type="URL">http://d-nb.info/gnd/121907155</idno>
-               <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 1. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_001.xml"/></linkGrp></event></listEvent></person>
-               <person xml:id="hartmann_paul">
-                  <persName>
-                     <surname>Hartmann</surname>
-                     <forename>Paul</forename>
-                  </persName>
-                  <idno type="URL">http://d-nb.info/gnd/116501375</idno>
-               <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 1. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_001.xml"/></linkGrp></event></listEvent></person>
+                  <idno type="URL">http://d-nb.info/gnd/119242788</idno>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 1. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_001.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 2. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_002.xml"/></linkGrp></event></listEvent></person>
                <person xml:id="raimund_ferdinand">
                   <persName>
                      <surname>Raimund</surname>
@@ -637,20 +591,12 @@
                   </persName>
                   <idno type="URL">http://d-nb.info/gnd/118597914</idno>
                <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 1. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_001.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 2. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_002.xml"/></linkGrp></event></listEvent></person>
-               <person xml:id="meyer_ruth">
+               <person xml:id="schlösser_rainer">
                   <persName>
-                     <surname>Meyer</surname>
-                     <forename>Ruth</forename>
-                     <roleName>Diplom Bibliothekarin</roleName>
+                     <surname>Schlösser</surname>
+                     <forename>Rainer</forename>
                   </persName>
-                  <idno type="URL">http://d-nb.info/gnd/1056621966</idno>
-               <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 1. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_001.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 2. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_002.xml"/></linkGrp></event></listEvent></person>
-               <person xml:id="minor_jakob">
-                  <persName>
-                     <surname>Minor</surname>
-                     <forename>Jakob</forename>
-                  </persName>
-                  <idno type="URL">http://d-nb.info/gnd/117048526</idno>
+                  <idno type="URL">http://d-nb.info/gnd/11732969X</idno>
                <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 1. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_001.xml"/></linkGrp></event></listEvent></person>
                <person xml:id="devrient_eduard">
                   <persName>
@@ -661,29 +607,6 @@
                   </persName>
                   <idno>http://d-nb.info/gnd/118525042</idno>
                <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 1. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_001.xml"/></linkGrp></event></listEvent></person>
-               <person xml:id="aslan_raoul">
-                  <persName>
-                     <surname>Aslan</surname>
-                     <forename>Raoul</forename>
-                  </persName>
-                  <idno type="URL">http://d-nb.info/gnd/118504681</idno>
-               <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 1. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_001.xml"/></linkGrp></event></listEvent></person>
-               <person xml:id="schlösser_rainer">
-                  <persName>
-                     <surname>Schlösser</surname>
-                     <forename>Rainer</forename>
-                  </persName>
-                  <idno type="URL">http://d-nb.info/gnd/11732969X</idno>
-               <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 1. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_001.xml"/></linkGrp></event></listEvent></person>
-               <person xml:id="börge_vagn">
-                  <persName>
-                     <surname>Börge</surname>
-                     <forename>Vagn</forename>
-                     <roleName>Dozent</roleName>
-                     <roleName type="degree" full="abb">Dr.</roleName>
-                  </persName>
-                  <idno type="URL">http://d-nb.info/gnd/116224681</idno>
-               <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 1. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_001.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 2. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_002.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 4. Rundbriefs (Teil 2) 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_004_2.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 5. Rundbriefs 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_005.xml"/></linkGrp></event></listEvent></person>
                <person xml:id="aprent_patrick">
                   <persName>
                      <surname>Aprent</surname>
@@ -691,12 +614,40 @@
                   </persName>
                   <idno type="URL">https://orcid.org/0000-0002-0359-5981</idno>
                <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 1. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_001.xml"/></linkGrp></event></listEvent></person>
-               <person xml:id="hilpert_heinz">
+               <person xml:id="hartmann_paul">
                   <persName>
-                     <surname>Hilpert</surname>
-                     <forename>Heinz</forename>
+                     <surname>Hartmann</surname>
+                     <forename>Paul</forename>
                   </persName>
-                  <idno type="URL">http://d-nb.info/gnd/118704990</idno>
+                  <idno type="URL">http://d-nb.info/gnd/116501375</idno>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 1. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_001.xml"/></linkGrp></event></listEvent></person>
+               <person xml:id="minor_jakob">
+                  <persName>
+                     <surname>Minor</surname>
+                     <forename>Jakob</forename>
+                  </persName>
+                  <idno type="URL">http://d-nb.info/gnd/117048526</idno>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 1. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_001.xml"/></linkGrp></event></listEvent></person>
+               <person xml:id="hölderlin_friedrich">
+                  <persName>
+                     <surname>Hölderlin</surname>
+                     <forename>Friedrich</forename>
+                  </persName>
+                  <idno type="URL">http://d-nb.info/gnd/118551981</idno>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 1. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_001.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 4. Rundbriefs (Teil 2) 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_004_2.xml"/></linkGrp></event></listEvent></person>
+               <person xml:id="niederführ_otto">
+                  <persName>
+                     <surname>Niederführ</surname>
+                     <forename>Otto</forename>/&gt; <roleName type="degree" full="abb">Prof.</roleName>
+                  </persName>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 1. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_001.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 2. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_002.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 4. Rundbriefs (Teil 2) 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_004_2.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 5. Rundbriefs 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_005.xml"/></linkGrp></event></listEvent></person>
+               <person xml:id="schirach_baldur">
+                  <persName>
+                     <surname>Schirach</surname>
+                     <nameLink>von</nameLink>
+                     <forename>Baldur</forename>
+                  </persName>
+                  <idno type="URL">http://d-nb.info/gnd/118607804</idno>
                <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 1. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_001.xml"/></linkGrp></event></listEvent></person>
                <person xml:id="kainz_josef">
                   <persName>
@@ -712,12 +663,56 @@
                   </persName>
                   <idno type="URL">http://d-nb.info/gnd/106534785</idno>
                <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 1. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_001.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 2. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_002.xml"/></linkGrp></event></listEvent></person>
+               <person xml:id="schreyvogel_joseph">
+                  <persName>
+                     <surname>Schreyvogel</surname>
+                     <forename>Joseph</forename>
+                  </persName>
+                  <idno type="URL">http://d-nb.info/gnd/119368579</idno>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 1. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_001.xml"/></linkGrp></event></listEvent></person>
+               <person xml:id="müthel_lothar">
+                  <persName>
+                     <surname type="pseudo">Müthel</surname>
+                     <forename>Lothar</forename>
+                     <roleName>Generalintendant der Staatstheater</roleName>
+                  </persName>
+                  <idno type="URL">http://d-nb.info/gnd/119049309</idno>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 1. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_001.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 5. Rundbriefs 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_005.xml"/></linkGrp></event></listEvent></person>
                <person xml:id="eckmann_alfred">
                   <persName>
                      <surname>Eckmann</surname>
                      <forename>Alfred</forename>
                      <!-- http://www.bildarchivaustria.at/Pages/ImageDetail.aspx?p_iBildID=3570234 -->
                   </persName>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 1. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_001.xml"/></linkGrp></event></listEvent></person>
+               <person xml:id="tressler_otto">
+                  <persName>
+                     <surname>Tressler</surname>
+                     <forename>Otto</forename>
+                  </persName>
+                  <idno type="URL">http://d-nb.info/gnd/117414719</idno>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 1. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_001.xml"/></linkGrp></event></listEvent></person>
+               <person xml:id="meyer_ruth">
+                  <persName>
+                     <surname>Meyer</surname>
+                     <forename>Ruth</forename>
+                     <roleName>Diplom Bibliothekarin</roleName>
+                  </persName>
+                  <idno type="URL">http://d-nb.info/gnd/1056621966</idno>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 1. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_001.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 2. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_002.xml"/></linkGrp></event></listEvent></person>
+               <person xml:id="aslan_raoul">
+                  <persName>
+                     <surname>Aslan</surname>
+                     <forename>Raoul</forename>
+                  </persName>
+                  <idno type="URL">http://d-nb.info/gnd/118504681</idno>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 1. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_001.xml"/></linkGrp></event></listEvent></person>
+               <person xml:id="wolter_charlotte">
+                  <persName>
+                     <surname>Wolter</surname>
+                     <forename>Charlotte</forename>
+                  </persName>
+                  <idno type="URL">http://d-nb.info/gnd/11880782X</idno>
                <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 1. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_001.xml"/></linkGrp></event></listEvent></person>
                <person xml:id="berger_alfred">
                   <persName>
@@ -726,6 +721,13 @@
                   </persName>
                   <idno type="URL">http://d-nb.info/gnd/118655930</idno>
                <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 1. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_001.xml"/></linkGrp></event></listEvent></person>
+               <person xml:id="thomas_walter">
+                  <persName>
+                     <surname>Thomas</surname>
+                     <forename>Walter</forename>
+                  </persName>
+                  <idno type="URL">http://d-nb.info/gnd/107583526</idno>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 1. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_001.xml"/></linkGrp></event></listEvent></person>
                <person xml:id="glossy_karl">
                   <persName>
                      <surname>Glossy</surname>
@@ -733,81 +735,32 @@
                   </persName>
                   <idno type="URL">http://d-nb.info/gnd/116667478</idno>
                <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 1. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_001.xml"/></linkGrp></event></listEvent></person>
-               <person xml:id="dietrich_margret">
+               <person xml:id="börge_vagn">
                   <persName>
-                     <surname>Dietrich</surname>
-                     <forename>Margret</forename>
+                     <surname>Börge</surname>
+                     <forename>Vagn</forename>
+                     <roleName>Dozent</roleName>
+                     <roleName type="degree" full="abb">Dr.</roleName>
                   </persName>
-                  <idno type="URL">http://d-nb.info/gnd/119242788</idno>
-               <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 1. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_001.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 2. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_002.xml"/></linkGrp></event></listEvent></person>
-               <person xml:id="tressler_otto">
+                  <idno type="URL">http://d-nb.info/gnd/116224681</idno>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 1. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_001.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 2. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_002.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 4. Rundbriefs (Teil 2) 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_004_2.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 5. Rundbriefs 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_005.xml"/></linkGrp></event></listEvent></person>
+               <person xml:id="pernkopf_eduard">
                   <persName>
-                     <surname>Tressler</surname>
-                     <forename>Otto</forename>
+                     <surname>Pernkopf</surname>
+                     <forename>Eduard</forename>
+                     <roleName>Rektor der <rs type="org" ref="#universitaet_wien">Universität
+                           Wien</rs>
+                     </roleName>
                   </persName>
-                  <idno type="URL">http://d-nb.info/gnd/117414719</idno>
+                  <idno type="URL">http://d-nb.info/gnd/121907155</idno>
                <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 1. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_001.xml"/></linkGrp></event></listEvent></person>
-               <person xml:id="hölderlin_friedrich">
-                  <persName>
-                     <surname>Hölderlin</surname>
-                     <forename>Friedrich</forename>
-                  </persName>
-                  <idno type="URL">http://d-nb.info/gnd/118551981</idno>
-               <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 1. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_001.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 4. Rundbriefs (Teil 2) 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_004_2.xml"/></linkGrp></event></listEvent></person>
-               </listPerson><listOrg><org xml:id="universitaet_wien">
-                        <orgName>Universität Wien</orgName>
-                        <idno type="URL">http://d-nb.info/gnd/2024703-5</idno>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 1. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_001.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 2. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_002.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 4. Rundbriefs (Teil 2) 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_004_2.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 5. Rundbriefs 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_005.xml"/></linkGrp></event></listEvent></org>
-                    <org xml:id="theatersammlung_nationalbibliothek">
-                        <orgName>Österreichische Nationalbibliothek. Theatersammlung</orgName>
-                        <idno type="URL">http://d-nb.info/gnd/2020869-8</idno>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 1. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_001.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 2. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_002.xml"/></linkGrp></event></listEvent></org>
-                    <org xml:id="max_reinhardt_seminar">
-                        <orgName>Max Reinhardt Seminar</orgName>
-                        <orgName type="alt">Institut für Schauspiel- und Schauspielregie</orgName>
-                        <orgName type="alt"><rs type="place" ref="#schoenbrunn">Schönbrunner</rs> Schauspiel- und
-                            Regieseminar</orgName>
-                        <orgName type="alt">Schauspielschule des Burgtheaters</orgName>
-                        <idno type="URL">http://d-nb.info/gnd/10091007-5</idno>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 1. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_001.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 2. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_002.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 4. Rundbriefs (Teil 2) 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_004_2.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 5. Rundbriefs 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_005.xml"/></linkGrp></event></listEvent></org>
-                    <org xml:id="holzhausens">
-                        <orgName>Adolf Holzhausens Nachfolger</orgName>
-                        <idno type="URL">http://d-nb.info/gnd/1073079473</idno>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 1. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_001.xml"/></linkGrp></event></listEvent></org>
-                    <org xml:id="busch-bibliothek">
-                        <orgName>Universitäts- und Landesbibliothek Münster - Theatersammlung Busch</orgName>
-                        <orgName type="alt">Busch Bibliothek</orgName>
-                        <idno type="URL">http://d-nb.info/gnd/7845448-7</idno>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 1. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_001.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 2. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_002.xml"/></linkGrp></event></listEvent></org>
-                    <org xml:id="wehrmacht">
-                        <orgName>Deutsche Wehrmacht</orgName>
-                        <idno type="URL">http://d-nb.info/gnd/4064995-7</idno>
-                        <idno type="URL">http://d-nb.info/gnd/26159-2</idno>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 1. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_001.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 5. Rundbriefs 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_005.xml"/></linkGrp></event></listEvent></org>
-                <org xml:id="technische_hochschule_wien">
-                        <orgName>Technische Universität Wien</orgName>
-                        <idno type="URL">http://d-nb.info/gnd/55426-1</idno>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 1. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_001.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 2. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_002.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 4. Rundbriefs (Teil 2) 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_004_2.xml"/></linkGrp></event></listEvent></org>
-                    <org xml:id="akademie_der_bildenden_kuenste">
-                        <orgName>Akademie der bildenden Künste Wien</orgName>
-                        <idno type="URL">http://d-nb.info/gnd/2003761-2</idno>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 1. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_001.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 2. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_002.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 4. Rundbriefs (Teil 2) 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_004_2.xml"/></linkGrp></event></listEvent></org>
-                    <org xml:id="zentralinstitut">
-                        <orgName>Zentralinstitut</orgName>
-                        <orgName type="alt">Zentralinstitut für Theaterwissenschaft</orgName>
-                        <idno type="URL">http://d-nb.info/gnd/10017549-1</idno>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 1. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_001.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 1. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_001.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 2. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_002.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 4. Rundbriefs (Teil 1) 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_004.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 4. Rundbriefs (Teil 2) 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_004_2.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 5. Rundbriefs 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_005.xml"/></linkGrp></event></listEvent></org>
-                    <org xml:id="burgtheater">
-                        <orgName>Burgtheater</orgName>
-                        <idno type="URL">http://d-nb.info/gnd/38633-9</idno>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 1. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_001.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 2. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_002.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 4. Rundbriefs (Teil 2) 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_004_2.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 5. Rundbriefs 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_005.xml"/></linkGrp></event></listEvent></org>
-                    </listOrg><listPlace><place xml:id="danzig" type="city">
-               <placeName>Danzig</placeName>
+               </listPerson><listPlace><place xml:id="hofburg" type="building">
+               <placeName>Hofburg</placeName>
                <location>
-                  <geo decls="LatLng">54.35250 18.64637</geo>
+                  <geo decls="LatLng">48.20563 16.36469</geo>
                </location>
-               <idno type="URL">http://www.geonames.org/3099434</idno>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 1. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_001.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 5. Rundbriefs 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_005.xml"/></linkGrp></event></listEvent></place>
+               <idno type="URL">http://www.geonames.org/6354988</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 1. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_001.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 2. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_002.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 4. Rundbriefs (Teil 2) 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_004_2.xml"/></linkGrp></event></listEvent></place>
             <place xml:id="münster" type="city">
                <placeName>Münster</placeName>
                <location>
@@ -815,13 +768,6 @@
                </location>
                <idno type="URL">http://www.geonames.org/2867543</idno>
             <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 1. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_001.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 2. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_002.xml"/></linkGrp></event></listEvent></place>
-            <place xml:id="deutschland" type="country">
-               <placeName>Deutschland</placeName>
-               <location>
-                  <geo decls="LatLng">51.5 10.5</geo>
-               </location>
-               <idno type="URL">http://www.geonames.org/2921044</idno>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 1. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_001.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 5. Rundbriefs 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_005.xml"/></linkGrp></event></listEvent></place>
             <place xml:id="michaelerplatz" type="square">
                <placeName>Michaelerplatz</placeName>
                <location>
@@ -829,13 +775,13 @@
                </location>
                <idno type="URL">http://www.geonames.org/10244817</idno>
             <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 1. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_001.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 5. Rundbriefs 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_005.xml"/></linkGrp></event></listEvent></place>
-            <place xml:id="hofburg" type="building">
-               <placeName>Hofburg</placeName>
+            <place xml:id="deutschland" type="country">
+               <placeName>Deutschland</placeName>
                <location>
-                  <geo decls="LatLng">48.20563 16.36469</geo>
+                  <geo decls="LatLng">51.5 10.5</geo>
                </location>
-               <idno type="URL">http://www.geonames.org/6354988</idno>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 1. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_001.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 2. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_002.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 4. Rundbriefs (Teil 2) 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_004_2.xml"/></linkGrp></event></listEvent></place>
+               <idno type="URL">http://www.geonames.org/2921044</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 1. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_001.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 5. Rundbriefs 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_005.xml"/></linkGrp></event></listEvent></place>
             <place xml:id="wien" type="city">
                <placeName>Wien</placeName>
                <location>
@@ -843,6 +789,13 @@
                </location>
                <idno type="URL">http://www.geonames.org/2761369</idno>
             <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 1. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_001.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 4. Rundbriefs (Teil 2) 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_004_2.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 5. Rundbriefs 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_005.xml"/></linkGrp></event></listEvent></place>
+            <place xml:id="danzig" type="city">
+               <placeName>Danzig</placeName>
+               <location>
+                  <geo decls="LatLng">54.35250 18.64637</geo>
+               </location>
+               <idno type="URL">http://www.geonames.org/3099434</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 1. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_001.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 5. Rundbriefs 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_005.xml"/></linkGrp></event></listEvent></place>
             <place xml:id="bonn" type="city">
                <placeName>Bonn</placeName>
                <location>
@@ -850,5 +803,52 @@
                </location>
                <idno type="URL">http://www.geonames.org/2946447</idno>
             <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 1. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_001.xml"/></linkGrp></event></listEvent></place>
-         </listPlace></back></text>
+         </listPlace><listOrg><org xml:id="max_reinhardt_seminar">
+                        <orgName>Max Reinhardt Seminar</orgName>
+                        <orgName type="alt">Institut für Schauspiel- und Schauspielregie</orgName>
+                        <orgName type="alt"><rs type="place" ref="#schoenbrunn">Schönbrunner</rs> Schauspiel- und
+                            Regieseminar</orgName>
+                        <orgName type="alt">Schauspielschule des Burgtheaters</orgName>
+                        <idno type="URL">http://d-nb.info/gnd/10091007-5</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 1. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_001.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 2. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_002.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 4. Rundbriefs (Teil 2) 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_004_2.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 5. Rundbriefs 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_005.xml"/></linkGrp></event></listEvent></org>
+                    <org xml:id="akademie_der_bildenden_kuenste">
+                        <orgName>Akademie der bildenden Künste Wien</orgName>
+                        <idno type="URL">http://d-nb.info/gnd/2003761-2</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 1. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_001.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 2. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_002.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 4. Rundbriefs (Teil 2) 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_004_2.xml"/></linkGrp></event></listEvent></org>
+                    <org xml:id="burgtheater">
+                        <orgName>Burgtheater</orgName>
+                        <idno type="URL">http://d-nb.info/gnd/38633-9</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 1. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_001.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 2. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_002.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 4. Rundbriefs (Teil 2) 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_004_2.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 5. Rundbriefs 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_005.xml"/></linkGrp></event></listEvent></org>
+                    <org xml:id="theatersammlung_nationalbibliothek">
+                        <orgName>Österreichische Nationalbibliothek. Theatersammlung</orgName>
+                        <idno type="URL">http://d-nb.info/gnd/2020869-8</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 1. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_001.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 2. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_002.xml"/></linkGrp></event></listEvent></org>
+                    <org xml:id="wehrmacht">
+                        <orgName>Deutsche Wehrmacht</orgName>
+                        <idno type="URL">http://d-nb.info/gnd/4064995-7</idno>
+                        <idno type="URL">http://d-nb.info/gnd/26159-2</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 1. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_001.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 5. Rundbriefs 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_005.xml"/></linkGrp></event></listEvent></org>
+                <org xml:id="universitaet_wien">
+                        <orgName>Universität Wien</orgName>
+                        <idno type="URL">http://d-nb.info/gnd/2024703-5</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 1. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_001.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 2. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_002.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 4. Rundbriefs (Teil 2) 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_004_2.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 5. Rundbriefs 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_005.xml"/></linkGrp></event></listEvent></org>
+                    <org xml:id="technische_hochschule_wien">
+                        <orgName>Technische Universität Wien</orgName>
+                        <idno type="URL">http://d-nb.info/gnd/55426-1</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 1. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_001.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 2. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_002.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 4. Rundbriefs (Teil 2) 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_004_2.xml"/></linkGrp></event></listEvent></org>
+                    <org xml:id="busch-bibliothek">
+                        <orgName>Universitäts- und Landesbibliothek Münster - Theatersammlung Busch</orgName>
+                        <orgName type="alt">Busch Bibliothek</orgName>
+                        <idno type="URL">http://d-nb.info/gnd/7845448-7</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 1. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_001.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 2. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_002.xml"/></linkGrp></event></listEvent></org>
+                    <org xml:id="holzhausens">
+                        <orgName>Adolf Holzhausens Nachfolger</orgName>
+                        <idno type="URL">http://d-nb.info/gnd/1073079473</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 1. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_001.xml"/></linkGrp></event></listEvent></org>
+                    <org xml:id="zentralinstitut">
+                        <orgName>Zentralinstitut</orgName>
+                        <orgName type="alt">Zentralinstitut für Theaterwissenschaft</orgName>
+                        <idno type="URL">http://d-nb.info/gnd/10017549-1</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 1. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_001.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 1. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_001.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 2. Rundbriefs 1943</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_002.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 4. Rundbriefs (Teil 1) 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_004.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 4. Rundbriefs (Teil 2) 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_004_2.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Digitale Edition des 5. Rundbriefs 1944</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rundbriefe/Rundbrief_005.xml"/></linkGrp></event></listEvent></org>
+                    </listOrg></back></text>
 </TEI>
