@@ -56,7 +56,7 @@
                     </div>
                     <div class="container" style="margin-top:1em;">
                         <div class="row">
-                            <div class="col-md-4">
+                            <div class="col-md-6">
                                 <a href="listperson.html" class="index-link">                                   
                                     <div class="card index-card">
                                         <div class="card-body">
@@ -70,7 +70,7 @@
                                     </div>                                     
                                 </a>                                    
                             </div>
-                            <div class="col-md-4">
+                            <div class="col-md-6">
                                 <a href="listplace.html" class="index-link">                                   
                                     <div class="card index-card">
                                         <div class="card-body">
@@ -84,7 +84,7 @@
                                     </div>                                     
                                 </a>                                    
                             </div>
-                            <div class="col-md-4">
+                            <!--<div class="col-md-4">
                                 <a href="listorg.html" class="index-link">                                   
                                     <div class="card index-card">
                                         <div class="card-body">
@@ -97,7 +97,7 @@
                                         </div>
                                     </div>                                     
                                 </a>                                    
-                            </div>
+                            </div>-->
                         </div>
                     </div>
                     <xsl:call-template name="html_footer"/>
