@@ -1,21 +1,52 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/rundbriefe" xml:id="about.xml">
-    <teiHeader>
-        <fileDesc>
-           <titleStmt>
-              <title type="main">Über das Projekt</title>
-              <title type="sub">Digital transcription of the "Rundbriefe des Zentralinstituts für Theaterwissenschaft" and annotation for a digital edition and web application according to the TEI guidelines</title>
-           </titleStmt>
-           <publicationStmt>
-              <p>Publication Information</p>
-           </publicationStmt>
-           <sourceDesc>
-              <p>Information about the source</p>
-           </sourceDesc>
-        </fileDesc>
-    </teiHeader>
-    <text>
-        <body>
-           <p>Some text here.</p>
-        </body>
-    </text>
-  </TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/rundbriefe"
+   xml:id="about.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Über das Projekt</title>
+            <title type="sub">Digital transcription of the "Rundbriefe des Zentralinstituts für
+               Theaterwissenschaft" and annotation for a digital edition and web application
+               according to the TEI guidelines</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>This project was part of the course "Vom Archivbestand zum digitalen Quellenkorpus. Eine
+            praktische Einführung in Digitale Editionen" at University of Vienna (degree programme:
+            History), winter semester 2017, in cooperation with the ACDH-OEAW - Austrian Centre for
+            Digital Humanities at the Austrian Academy of Sciences. Source material and context:</p>
+         <list>
+            <item>The "Rundbriefe des Zentralinstituts für Theaterwissenschaft" are a series of
+               historical letters send to German scholars engaged in fighting in WW2, to inform them
+               about the events at the "Zentralinstitut für Theaterwissenschaft" between 1943-1945.
+               The institute was founded 1943 at the University of Vienna by Heinz Kindermann, under
+               the ideological background of National Socialism, which is also reflected in these
+               letters. Today, the letters are part of a collection which is investigated in the
+               FWF-funded research project "Historiography – Ideology – Collection. Research-based
+               Digitizing of Historical Theater Material from the 'Zentralinstitut für
+               Theaterwissenschaft' in Vienna 1943–45" at the "Archiv des Instituts für Theater-,
+               Film- und Medienwissenschaft", University of Vienna.</item>
+         </list>
+         <p>
+            Content of teaching:
+         </p>
+         <list>
+            <item>
+               The course provided a general introduction to the digital humanities as well as to digital editions. After deciding on the source material and the scope of the project, further issues have been targeted, such as conventions and standards (FAIR data principles, TEI), and tools and workflows (Git, oXygen).
+            </item>
+         </list>
+         <p>Practical implementation:</p>
+         <list>
+            <item>The letters were first scanned, transcribed, and converted into XML format. The textual content was then encoded according the TEI guidelines with the oXygen XML editor, and a repository for the project was created on GitHub. The letters were distributed among the participants, and project standards defined. It was agreed to create a XML file for each letter, and to annotate persons, places, organisations and works. While only tagged in the letter files, these entities where described in detail in separate lists of persons, places etc., and referenced to norm data, such as the GND of the German National Library, or GeoNames for places. A web application (based on eXist-db, GitHub; in cooperation with the ACDH, ÖAW) was then set up, giving access to all data as well as offering several tools for analyzing it.</item>
+         </list>
+         <p>The web application also offers different indices based on the data, and tools for analysing (persons relationship network, timeline, interactive location map), as well as a data-endpoint section, for downloading in various formats. Furthermore, all digitized and annotated data will be part of the before mentioned research project "Historiography – Ideology – Collection", that is based on the archive collection the original letters are also part of. To access the digital editions just navigate via "Transcriptions" - there you find the file for each letter. "Register" offers you on the one hand a list of entities in the letters, on the other hand you find some tools to visualize information.</p>
+      </body>
+   </text>
+</TEI>

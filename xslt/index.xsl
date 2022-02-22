@@ -29,37 +29,17 @@
                                 <div id="audenIndexCarousel" class="carousel slide" data-ride="carousel">
                                     <ol class="carousel-indicators">
                                         <li data-target="#audenIndexCarousel" data-slide-to="0" class="active"></li>
-                                        <li data-target="#audenIndexCarousel" data-slide-to="1"></li>
-                                        <li data-target="#audenIndexCarousel" data-slide-to="2"></li>
                                     </ol>
                                     <div class="carousel-inner">
                                         <div class="carousel-item active">
-                                            <img src="dist/fundament/images/acdh_building.jpg" class="d-block w-100" alt="..."/>
+                                            <img src="img/title-image.jpg" class="d-block w-100" alt="..."/>
                                             <div class="carousel-caption d-none d-md-block" style="background-image: linear-gradient(rgba(38.0, 35.3, 37.6, 0.5), rgba(38.0, 35.3, 37.6, 0.5));">
                                                 <h1><xsl:value-of select="$project_short_title"/></h1>
                                                 <h2><xsl:value-of select="$project_title"/></h2>
-                                                <p>Some teaser text for the <strong><xsl:value-of select="$project_short_title"/></strong></p>
+                                                <p>Example pages of the "Rundbriefe" from the Archive of the Department of Theatre, Film, and Media Studies at University of Vienna</p>
                                                 <button class="btn btn-round">
                                                     <a href="toc.html">Read More</a>
                                                 </button>
-                                            </div>
-                                        </div>
-                                        <div class="carousel-item">
-                                            <img src="dist/fundament/images/acdh_building.jpg" class="d-block w-100" alt="..."/>
-                                            <div class="carousel-caption d-none d-md-block" style="background-image: linear-gradient(rgba(38.0, 35.3, 37.6, 0.5), rgba(38.0, 35.3, 37.6, 0.5));">
-                                                <h1>Example Content Slide 2</h1>
-                                                <h2>Example Subtitle Slide 2</h2>
-                                                <h5>Second slide label</h5>
-                                                <p>Some representative placeholder content for the second slide.</p>
-                                            </div>
-                                        </div>
-                                        <div class="carousel-item">
-                                            <img src="dist/fundament/images/acdh_building.jpg" class="d-block w-100" alt="..."/>
-                                            <div class="carousel-caption d-none d-md-block" style="background-image: linear-gradient(rgba(38.0, 35.3, 37.6, 0.5), rgba(38.0, 35.3, 37.6, 0.5));">
-                                                <h1>Example Content Slide 3</h1>
-                                                <h2>Example Subtitle Slide 3</h2>
-                                                <h5>Third slide label</h5>
-                                                <p>Some representative placeholder content for the third slide.</p>
                                             </div>
                                         </div>
                                     </div>
